@@ -1,0 +1,14 @@
+删除hrp和一开头的随机
+basis其实就是懒加载机制
+
+SATLG:
+    heuristic.h: 每一大轮搜索结束后，根据sat_count给soft和hard+权重、feasible=0时hard的额外权重有效
+    deci.h: hup矛盾时候，前60s参考local_opt，后参考global_opt；只要矛盾basis+1，对于v的所有子句；hscore计算时也用额外权重；
+    无遗忘机制
+    testResult_for_satlg.txt
+
+
+SATLG_hrp:
+    heuristic.h: 每一大轮搜索结束后，根据sat_count给soft和hard+权重、feasible=0时hard的额外权重有效
+    deci.h: 矛盾都参考global_opt，hup矛盾只给h+权重，sup矛盾只给s+权重；ranp时采取BMS，如果采样15个里面有hscore>0的就根据满足hscore的赋值传播它，如果没有就双随机
+    无遗忘机制
