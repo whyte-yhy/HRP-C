@@ -1,0 +1,4345 @@
+../MS18/mse18-incomplete-unweighted-benchmarks/aes-key-recovery-AES1-76-36.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/aes-mul_8_11.wcnf
+time limit:60s
+64	10.35
+time limit:300s
+64	10.35
+../MS18/mse18-incomplete-unweighted-benchmarks/aes-mul_8_13.wcnf
+time limit:60s
+65	6.97
+time limit:300s
+62	181.16
+../MS18/mse18-incomplete-unweighted-benchmarks/aes-mul_8_14.wcnf
+time limit:60s
+60	13.41
+time limit:300s
+60	13.41
+../MS18/mse18-incomplete-unweighted-benchmarks/aes-mul_8_9.wcnf
+time limit:60s
+45	17.12
+time limit:300s
+44	199.96
+../MS18/mse18-incomplete-unweighted-benchmarks/aes-sbox_8.wcnf
+time limit:60s
+810	154.09
+time limit:300s
+442	156.51
+../MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_02.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_03.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_04.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_05.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_15.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_18.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-f1000.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-f2000.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-f600.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-g125.17.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-g125.18.wcnf
+time limit:60s
+2228	11.6
+time limit:300s
+2228	11.6
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-g250.15.wcnf
+time limit:60s
+3750	15.06
+time limit:300s
+3750	15.06
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-g250.29.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-ii16a1.wcnf
+time limit:60s
+1115	20.13
+time limit:300s
+1095	106.16
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-ii16a2.wcnf
+time limit:60s
+1170	21.6
+time limit:300s
+1170	21.6
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-ii16c1.wcnf
+time limit:60s
+1233	55.66
+time limit:300s
+1208	287.38
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-ii16d1.wcnf
+time limit:60s
+890	2.95
+time limit:300s
+890	2.95
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-par32-1-c.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-par32-1.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-syn-normalized-ex1010.pi.wcnf
+time limit:60s
+292	30.82
+time limit:300s
+289	91.4
+../MS18/mse18-incomplete-unweighted-benchmarks/bcp-syn-normalized-test4.pi.wcnf
+time limit:60s
+114	36.37
+time limit:300s
+113	133.14
+../MS18/mse18-incomplete-unweighted-benchmarks/close-solutions-SAT11__application__fuhs__AProVE11__AProVE11-10.cnf.wcnf.3.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/des-cnf.18.p.10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/des-cnf.20.p.9.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_150_0.05_1_8_3.wcnf
+time limit:60s
+7	17.38
+time limit:300s
+6	261.27
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_150_0.1_2_8_2.wcnf
+time limit:60s
+8	16.71
+time limit:300s
+8	16.71
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_1_10_1.wcnf
+time limit:60s
+12	2.27
+time limit:300s
+12	2.27
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_1_10_2.wcnf
+time limit:60s
+13	9.91
+time limit:300s
+12	156.86
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_3_10_0.wcnf
+time limit:60s
+9	49.27
+time limit:300s
+9	49.27
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_3_10_1.wcnf
+time limit:60s
+9	45.56
+time limit:300s
+8	110.13
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_4_10_0.wcnf
+time limit:60s
+8	53.71
+time limit:300s
+7	170.67
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_4_10_1.wcnf
+time limit:60s
+8	32.5
+time limit:300s
+7	190.75
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_4_10_2.wcnf
+time limit:60s
+7	2.16
+time limit:300s
+7	2.16
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_4_10_3.wcnf
+time limit:60s
+9	37.88
+time limit:300s
+9	37.88
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_4_10_4.wcnf
+time limit:60s
+7	22.23
+time limit:300s
+7	22.23
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.1_2_10_1.wcnf
+time limit:60s
+8	2.69
+time limit:300s
+8	2.69
+../MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.1_4_10_4.wcnf
+time limit:60s
+9	27.19
+time limit:300s
+8	175.08
+../MS18/mse18-incomplete-unweighted-benchmarks/fault-diagnosis-s38584_nan_explicit_14_0.wcnf
+time limit:60s
+297	39.47
+time limit:300s
+297	39.47
+../MS18/mse18-incomplete-unweighted-benchmarks/fault-diagnosis-s38584_nan_explicit_5_0.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+284	116.82
+../MS18/mse18-incomplete-unweighted-benchmarks/fault-diagnosis-s38584_nan_explicit_8_0.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+299	75.76
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_2bitcomp_5.wcnf
+time limit:60s
+19	21.75
+time limit:300s
+16	68.37
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_aim-50-1_6-yes1-3.wcnf
+time limit:60s
+12	41.32
+time limit:300s
+11	95.56
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_aim-50-2_0-no-3.wcnf
+time limit:60s
+13	5
+time limit:300s
+13	5
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_aim-50-2_0-yes1-3.wcnf
+time limit:60s
+12	35.74
+time limit:300s
+12	35.74
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois21.wcnf
+time limit:60s
+7	18.71
+time limit:300s
+6	151.23
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois23.wcnf
+time limit:60s
+5	8.22
+time limit:300s
+4	73.7
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois24.wcnf
+time limit:60s
+4	17.38
+time limit:300s
+4	17.38
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois25.wcnf
+time limit:60s
+5	39.2
+time limit:300s
+5	39.2
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois27.wcnf
+time limit:60s
+5	10.14
+time limit:300s
+5	10.14
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois29.wcnf
+time limit:60s
+5	15.93
+time limit:300s
+5	15.93
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois30.wcnf
+time limit:60s
+6	35.55
+time limit:300s
+6	35.55
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_flat30-1.wcnf
+time limit:60s
+26	19.83
+time limit:300s
+26	19.83
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_flat30-99.wcnf
+time limit:60s
+26	20.05
+time limit:300s
+22	166.41
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_hole6.wcnf
+time limit:60s
+7	1.58
+time limit:300s
+7	1.58
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_hole8.wcnf
+time limit:60s
+10	10.01
+time limit:300s
+10	10.01
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_par8-1-c.wcnf
+time limit:60s
+16	55.47
+time limit:300s
+12	168.94
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_par8-2-c.wcnf
+time limit:60s
+10	15
+time limit:300s
+9	196.66
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_par8-3-c.wcnf
+time limit:60s
+12	13.1
+time limit:300s
+12	13.1
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_par8-4-c.wcnf
+time limit:60s
+13	13.38
+time limit:300s
+12	90.98
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_par8-5-c.wcnf
+time limit:60s
+15	25.99
+time limit:300s
+15	25.99
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_pret60_60.wcnf
+time limit:60s
+7	12.5
+time limit:300s
+7	12.5
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_s208.wcnf
+time limit:60s
+17	10.99
+time limit:300s
+10	292.73
+../MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_uf20-050.wcnf
+time limit:60s
+6	0.37
+time limit:300s
+6	0.37
+../MS18/mse18-incomplete-unweighted-benchmarks/hs-timetabling-GreeceWesternGreeceUniversityInstance4.xml.wcnf
+time limit:60s
+143	49.71
+time limit:300s
+143	49.71
+../MS18/mse18-incomplete-unweighted-benchmarks/maxclique-brock800_2.clq.wcnf
+time limit:60s
+779	15.06
+time limit:300s
+779	15.06
+../MS18/mse18-incomplete-unweighted-benchmarks/maxclique-p_hat1000-1.clq.wcnf
+time limit:60s
+990	0.66
+time limit:300s
+990	0.66
+../MS18/mse18-incomplete-unweighted-benchmarks/maxclique-p_hat1000-2.clq.wcnf
+time limit:60s
+954	0.36
+time limit:300s
+954	0.36
+../MS18/mse18-incomplete-unweighted-benchmarks/maxcut-MANN_a9.clq.wcnf
+time limit:60s
+430	25.64
+time limit:300s
+430	25.64
+../MS18/mse18-incomplete-unweighted-benchmarks/maxcut-brock200_1.clq.wcnf
+time limit:60s
+252	32.95
+time limit:300s
+242	168.58
+../MS18/mse18-incomplete-unweighted-benchmarks/maxcut-brock400_2.clq.wcnf
+time limit:60s
+262	55.29
+time limit:300s
+262	55.29
+../MS18/mse18-incomplete-unweighted-benchmarks/maxcut-brock400_4.clq.wcnf
+time limit:60s
+264	34.41
+time limit:300s
+264	34.41
+../MS18/mse18-incomplete-unweighted-benchmarks/maxcut-hamming6-4.clq.wcnf
+time limit:60s
+192	0.09
+time limit:300s
+192	0.09
+../MS18/mse18-incomplete-unweighted-benchmarks/maxcut-p_hat500-3.clq.wcnf
+time limit:60s
+298	18.89
+time limit:300s
+292	86.55
+../MS18/mse18-incomplete-unweighted-benchmarks/maxcut-t6pm3-8888.spn.wcnf
+time limit:60s
+142	0.66
+time limit:300s
+142	0.66
+../MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R0_myciel6.wcnf
+time limit:60s
+836	46.95
+time limit:300s
+819	202.36
+../MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R0_queen11_11.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+4517	202.75
+../MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R0_queen6_6.wcnf
+time limit:60s
+233	5.22
+time limit:300s
+233	5.22
+../MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R0_queen8_12.wcnf
+time limit:60s
+2473	42.8
+time limit:300s
+2473	42.8
+../MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R0_queen8_8.wcnf
+time limit:60s
+1075	43.56
+time limit:300s
+1075	43.56
+../MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R1_games120.wcnf
+time limit:60s
+1921	45.23
+time limit:300s
+1921	45.23
+../MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R3_miles1000.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+2544	74.71
+../MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R3_miles750.wcnf
+time limit:60s
+1887	58.56
+time limit:300s
+1887	58.56
+../MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_add_6_carry_991.wcnf
+time limit:60s
+113	11.1
+time limit:300s
+113	11.1
+../MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_3_6_9999.wcnf
+time limit:60s
+70	25.04
+time limit:300s
+66	232.05
+../MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_5_33.wcnf
+time limit:60s
+747	48.18
+time limit:300s
+741	178.43
+../MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_5_399.wcnf
+time limit:60s
+748	1.12
+time limit:300s
+745	222.7
+../MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_5_991.wcnf
+time limit:60s
+130	18.53
+time limit:300s
+130	18.53
+../MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_5_9999.wcnf
+time limit:60s
+213	1.05
+time limit:300s
+213	1.05
+../MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_6_991.wcnf
+time limit:60s
+161	41.92
+time limit:300s
+161	41.92
+../MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_6_9999.wcnf
+time limit:60s
+384	14.14
+time limit:300s
+384	14.14
+../MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_7_991.wcnf
+time limit:60s
+177	6.05
+time limit:300s
+175	176.77
+../MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_5_5_991.wcnf
+time limit:60s
+263	1.58
+time limit:300s
+259	282.68
+../MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_square_5_9999.wcnf
+time limit:60s
+61	3.3
+time limit:300s
+61	3.3
+../MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-12.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-14.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-16.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-18.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-22.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-26.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/scheduling-cnf_10.wcnf
+time limit:60s
+142	29.96
+time limit:300s
+132	144.95
+../MS18/mse18-incomplete-unweighted-benchmarks/scheduling-cnf_12.wcnf
+time limit:60s
+129	31.97
+time limit:300s
+120	265.98
+../MS18/mse18-incomplete-unweighted-benchmarks/scheduling-cnf_small.wcnf
+time limit:60s
+51	14.19
+time limit:300s
+51	14.19
+../MS18/mse18-incomplete-unweighted-benchmarks/sean-safarpour-SM_MAIN_MEM_buggy1.dimacs.filtered.wcnf
+time limit:60s
+570	34.08
+time limit:300s
+535	135.04
+../MS18/mse18-incomplete-unweighted-benchmarks/sean-safarpour-rsdecoder-problem.dimacs_41.filtered.wcnf
+time limit:60s
+2	4.17
+time limit:300s
+2	4.17
+../MS18/mse18-incomplete-unweighted-benchmarks/sean-safarpour-wb_4m8s-problem.dimacs_49.filtered.wcnf
+time limit:60s
+245	39.63
+time limit:300s
+224	248.36
+../MS18/mse18-incomplete-unweighted-benchmarks/sean-safarpour-wb_4m8s4.dimacs.filtered.wcnf
+time limit:60s
+228	42.54
+time limit:300s
+225	239.58
+../MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpclr11_maxsat.wcnf
+time limit:60s
+24	0.68
+time limit:300s
+23	117.55
+../MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpclr12_maxsat.wcnf
+time limit:60s
+26	6.1
+time limit:300s
+26	6.1
+../MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpclr13_maxsat.wcnf
+time limit:60s
+29	51.44
+time limit:300s
+29	51.44
+../MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc06_maxsat.wcnf
+time limit:60s
+62	0.9
+time limit:300s
+62	0.9
+../MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc07_maxsat.wcnf
+time limit:60s
+158	2.13
+time limit:300s
+158	2.13
+../MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc08_maxsat.wcnf
+time limit:60s
+390	3.68
+time limit:300s
+387	85.51
+../MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc09_maxsat.wcnf
+time limit:60s
+841	58.95
+time limit:300s
+825	236.12
+../MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc10_maxsat.wcnf
+time limit:60s
+1939	0.46
+time limit:300s
+1926	144.9
+../MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc11_maxsat.wcnf
+time limit:60s
+4345	22.44
+time limit:300s
+4345	22.44
+../MS18/mse18-incomplete-unweighted-benchmarks/treewidth-computation-TWComp_1c75_N69.wcnf
+time limit:60s
+32	56.63
+time limit:300s
+32	56.63
+../MS18/mse18-incomplete-unweighted-benchmarks/treewidth-computation-TWComp_1dp_N76.wcnf
+time limit:60s
+29	57.32
+time limit:300s
+28	255.51
+../MS18/mse18-incomplete-unweighted-benchmarks/treewidth-computation-TWComp_eil51.tsp_N51.wcnf
+time limit:60s
+10	23.71
+time limit:300s
+10	23.71
+../MS18/mse18-incomplete-unweighted-benchmarks/treewidth-computation-TWComp_queen5_5_N25.wcnf
+time limit:60s
+18	0.13
+time limit:300s
+18	0.13
+../MS18/mse18-incomplete-unweighted-benchmarks/treewidth-computation-TWComp_queen6_6_N36.wcnf
+time limit:60s
+26	48.24
+time limit:300s
+26	48.24
+../MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr14-plb100.wcnf
+time limit:60s
+68	0.03
+time limit:300s
+68	0.03
+../MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr6-plb100.wcnf
+time limit:60s
+66	0.25
+time limit:300s
+66	0.25
+../MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr7-plb100.wcnf
+time limit:60s
+71	13.29
+time limit:300s
+71	13.29
+../MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr8-plb100.wcnf
+time limit:60s
+67	2.76
+time limit:300s
+67	2.76
+../MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr11-plb100.wcnf
+time limit:60s
+71	0.06
+time limit:300s
+71	0.06
+../MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr13-plb100.wcnf
+time limit:60s
+73	6.57
+time limit:300s
+73	6.57
+../MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr14-plb100.wcnf
+time limit:60s
+74	10.63
+time limit:300s
+74	10.63
+../MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr6-plb100.wcnf
+time limit:60s
+66	18.01
+time limit:300s
+66	18.01
+../MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr9-plb100.wcnf
+time limit:60s
+63	3.32
+time limit:300s
+63	3.32
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-australian.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-bnn-last-layer-f10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-bupa.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+402	77.23
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-cleve.wcnf
+time limit:60s
+233	58.13
+time limit:300s
+231	82.02
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-cleveland-nominal.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-cleveland.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+630	80.19
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-colic.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+340	184
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-diabetes.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-ecoli.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-haberman.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-heart-h.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+324	69.28
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-heart-statlog.wcnf
+time limit:60s
+255	35.82
+time limit:300s
+208	205.1
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-hungarian.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+360	66.76
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-liver-disorder.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+398	216.06
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-postoperative-patient-data.wcnf
+time limit:60s
+95	12.25
+time limit:300s
+79	225.43
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-shuttleM.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-soybean.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/credit_train_0_DNF_3_1.wcnf
+time limit:60s
+5982	0.99
+time limit:300s
+5982	0.99
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/credit_train_1_CNF_4_1.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+4904	65.46
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/tictactoe_train_0_CNF_2_1.wcnf
+time limit:60s
+153	0.12
+time limit:300s
+153	0.12
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/tictactoe_train_1_DNF_5_1.wcnf
+time limit:60s
+109	21.66
+time limit:300s
+109	21.66
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/toms_test_0_DNF_2_1.wcnf
+time limit:60s
+72	50.78
+time limit:300s
+72	50.78
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/toms_train_1_DNF_2_1.wcnf
+time limit:60s
+686	25.12
+time limit:300s
+624	230.55
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/wdbc_train_0_DNF_5_1.wcnf
+time limit:60s
+21	4.68
+time limit:300s
+21	4.68
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/adult_train_4_CNF_3_1.wcnf
+time limit:60s
+4726	39.92
+time limit:300s
+4726	39.92
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/adult_train_5_CNF_3_1.wcnf
+time limit:60s
+4195	38.37
+time limit:300s
+4195	38.37
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/compas_train_1_DNF_5_1.wcnf
+time limit:60s
+2246	10.07
+time limit:300s
+2202	73.36
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/credit_train_1_CNF_5_1.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+4918	69.68
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/heart_train_4_CNF_3_1.wcnf
+time limit:60s
+46	5.31
+time limit:300s
+46	5.31
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/ionosphere_train_2_DNF_3_1.wcnf
+time limit:60s
+21	0.18
+time limit:300s
+21	0.18
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/parkinsons_train_8_DNF_3_1.wcnf
+time limit:60s
+16	0.06
+time limit:300s
+15	271.05
+../MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/tictactoe_train_3_CNF_2_1.wcnf
+time limit:60s
+150	0.12
+time limit:300s
+150	0.12
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g10_n13e12_n13e12_n14e13_n14e13_n14e13_n14e13_n14e13_n15e13_n15e14_n15e14.wcnf
+time limit:60s
+1	0
+time limit:300s
+1	0
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g2_n35e34_n70e73.wcnf
+time limit:60s
+23	0.03
+time limit:300s
+23	0.03
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g2_n38e52_n41e47.wcnf
+time limit:60s
+32	0.03
+time limit:300s
+32	0.03
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g2_n44e43_n57e61.wcnf
+time limit:60s
+31	2.56
+time limit:300s
+31	2.56
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g2_n44e59_n74e84.wcnf
+time limit:60s
+43	1.17
+time limit:300s
+42	288.96
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g2_n68e88_n77e106.wcnf
+time limit:60s
+59	58.52
+time limit:300s
+57	153.11
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g3_n43e49_n45e51_n47e60.wcnf
+time limit:60s
+36	1.46
+time limit:300s
+35	101.41
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g3_n43e49_n72e77_n81e85.wcnf
+time limit:60s
+38	15.77
+time limit:300s
+37	179.38
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g3_n52e77_n57e74_n58e75.wcnf
+time limit:60s
+55	1.41
+time limit:300s
+55	1.41
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g4_n24e34_n47e56_n92e122_n98e129.wcnf
+time limit:60s
+22	3.79
+time limit:300s
+22	3.79
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g4_n58e71_n61e85_n100e127_n104e131.wcnf
+time limit:60s
+59	29.46
+time limit:300s
+58	107.04
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g5_n24e23_n28e29_n32e33_n32e33_n38e39.wcnf
+time limit:60s
+9	39.41
+time limit:300s
+9	39.41
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g6_n14e13_n14e21_n14e13_n14e13_n14e20_n18e28.wcnf
+time limit:60s
+5	0.12
+time limit:300s
+5	0.12
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g6_n39e38_n43e43_n61e61_n67e69_n67e68_n82e119.wcnf
+time limit:60s
+24	6.81
+time limit:300s
+23	186.18
+../MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g8_n39e38_n43e43_n58e57_n67e69_n67e68_n67e69_n67e68_n82e119.wcnf
+time limit:60s
+24	37.69
+time limit:300s
+23	281.39
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/SM_AS_TOP_buggy1.dimacs.filtered.wcnf
+time limit:60s
+84	0.9
+time limit:300s
+76	290.79
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/SM_MAIN_MEM_buggy1.dimacs.filtered.wcnf
+time limit:60s
+570	38.94
+time limit:300s
+535	129.17
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/mem_ctrl-problem.dimacs_27.filtered.wcnf
+time limit:60s
+18	56.57
+time limit:300s
+18	56.57
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/rsdecoder-problem.dimacs_38.filtered.wcnf
+time limit:60s
+2	3.23
+time limit:300s
+2	3.23
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/rsdecoder-problem.dimacs_41.filtered.wcnf
+time limit:60s
+2	3.17
+time limit:300s
+2	3.17
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/rsdecoder1_blackbox_KESblock-problem.dimacs_30.filtered.wcnf
+time limit:60s
+49	55.92
+time limit:300s
+32	154.73
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/rsdecoder4.dimacs.filtered.wcnf
+time limit:60s
+43	20.56
+time limit:300s
+22	292.54
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/rsdecoder6.dimacs.filtered.wcnf
+time limit:60s
+38	58.21
+time limit:300s
+7	234.36
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/spi2.dimacs.filtered.wcnf
+time limit:60s
+2	35.39
+time limit:300s
+2	35.39
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/wb_4m8s-problem.dimacs_47.filtered.wcnf
+time limit:60s
+42	15.41
+time limit:300s
+33	206.24
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/wb_4m8s-problem.dimacs_49.filtered.wcnf
+time limit:60s
+245	39.16
+time limit:300s
+224	242.04
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/wb_4m8s1.dimacs.filtered.wcnf
+time limit:60s
+35	55.42
+time limit:300s
+34	66.92
+../MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/wb_4m8s4.dimacs.filtered.wcnf
+time limit:60s
+228	40.91
+time limit:300s
+225	233.42
+../MS19/mse19-incomplete-unweighted-benchmarks/aes/mul_8_11.wcnf
+time limit:60s
+64	12.81
+time limit:300s
+64	12.81
+../MS19/mse19-incomplete-unweighted-benchmarks/aes/mul_8_13.wcnf
+time limit:60s
+65	7.91
+time limit:300s
+62	161.62
+../MS19/mse19-incomplete-unweighted-benchmarks/aes/mul_8_14.wcnf
+time limit:60s
+60	8.22
+time limit:300s
+60	8.22
+../MS19/mse19-incomplete-unweighted-benchmarks/aes/mul_8_9.wcnf
+time limit:60s
+45	10.19
+time limit:300s
+44	197.95
+../MS19/mse19-incomplete-unweighted-benchmarks/aes/sbox_8.wcnf
+time limit:60s
+810	137.5
+time limit:300s
+442	140.9
+../MS19/mse19-incomplete-unweighted-benchmarks/aes-key-recovery/AES1-74-32.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/aes-key-recovery/AES1-76-36.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/aes-key-recovery/AES1-76-38.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/aes-key-recovery/AES2-70-62.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/aes-key-recovery/AES2-72-67.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_02.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_03.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_04.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_05.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_15.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_18.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_02.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_03.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_04.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_05.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+110	245.01
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_15.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_18.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/bcp/fir/normalized-fir08_area_opers.wcnf
+time limit:60s
+51	32.5
+time limit:300s
+51	32.5
+../MS19/mse19-incomplete-unweighted-benchmarks/bcp/hipp-yRa1/simp/simp-ibd_50.08.wcnf
+time limit:60s
+58	0.4
+time limit:300s
+57	136.93
+../MS19/mse19-incomplete-unweighted-benchmarks/bcp/hipp-yRa1/su/SU-100kb__simp-genos.haps.21.wcnf
+time limit:60s
+57	40.74
+time limit:300s
+57	40.74
+../MS19/mse19-incomplete-unweighted-benchmarks/bcp/hipp-yRa1/su/SU3__simp-genos.haps.80.wcnf
+time limit:60s
+103	53.97
+time limit:300s
+103	53.97
+../MS19/mse19-incomplete-unweighted-benchmarks/bcp/msp/normalized-ii16a2.wcnf
+time limit:60s
+1170	16.93
+time limit:300s
+1170	16.93
+../MS19/mse19-incomplete-unweighted-benchmarks/bcp/msp/normalized-par32-4-c.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/bcp/msp/normalized-par32-5.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/bcp/syn/normalized-C499.b.wcnf
+time limit:60s
+49	4.12
+time limit:300s
+47	189.16
+../MS19/mse19-incomplete-unweighted-benchmarks/causal-discovery/causal_n7_i4_N1000_uai14_constant_int.wcnf
+time limit:60s
+177	1.91
+time limit:300s
+177	1.91
+../MS19/mse19-incomplete-unweighted-benchmarks/causal-discovery/causal_n7_i4_N500_uai14_constant_int.wcnf
+time limit:60s
+177	1.48
+time limit:300s
+177	1.48
+../MS19/mse19-incomplete-unweighted-benchmarks/causal-discovery/causal_n7_i6_N500_uai14_harddeps_int.wcnf
+time limit:60s
+210	2.47
+time limit:300s
+210	2.47
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug4_q0.used-as.sat04-723.cnf.wcnf.1.wcnf
+time limit:60s
+199	6.61
+time limit:300s
+179	73.6
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug4_q0.used-as.sat04-723.cnf.wcnf.8.wcnf
+time limit:60s
+86	4.16
+time limit:300s
+86	4.16
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug6_q0.used-as.sat04-725.cnf.wcnf.10.wcnf
+time limit:60s
+50	37.4
+time limit:300s
+50	37.4
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug6_q0.used-as.sat04-725.cnf.wcnf.3.wcnf
+time limit:60s
+181	4.19
+time limit:300s
+148	174.15
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug6_q0.used-as.sat04-725.cnf.wcnf.7.wcnf
+time limit:60s
+60	12.64
+time limit:300s
+60	12.64
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.2.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.3.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.4.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-10.cnf.wcnf.3.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__jarvisalo__smtqfbv-aigs__smtlib-qfbv-aigs-bin_libsmbsharemodes_vc5759-tseitin.cnf.wcnf.9.wcnf
+time limit:60s
+118	7.51
+time limit:300s
+118	7.51
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__manthey__traffic__traffic_3_uc_sat.cnf.wcnf.8.wcnf
+time limit:60s
+77	1.98
+time limit:300s
+77	1.98
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__manthey__traffic__traffic_3_uc_sat.cnf.wcnf.9.wcnf
+time limit:60s
+137	1.78
+time limit:300s
+137	1.78
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__manthey__traffic__traffic_r_sat.cnf.wcnf.4.wcnf
+time limit:60s
+78	24.26
+time limit:300s
+78	24.26
+../MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__rintanen__SATPlanning__blocks-blocks-36-0.170-NOTKNOWN.cnf.wcnf.6.wcnf
+time limit:60s
+48	30.13
+time limit:300s
+48	30.13
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.14.p.10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.16.p.8.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.17.p.10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.17.p.9.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.18.p.6.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+20	134.56
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.19.p.10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+21	182.51
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.19.p.7.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.19.p.9.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.20.p.10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.20.p.4.wcnf
+time limit:60s
+22	19.91
+time limit:300s
+22	19.91
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.20.p.8.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.20.p.9.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_150_0.05_2_8_3.wcnf
+time limit:60s
+9	5.24
+time limit:300s
+8	102.68
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_150_0.05_2_8_4.wcnf
+time limit:60s
+4	0.36
+time limit:300s
+4	0.36
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_150_0.1_2_8_2.wcnf
+time limit:60s
+8	18.58
+time limit:300s
+8	18.58
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_0.wcnf
+time limit:60s
+9	45.15
+time limit:300s
+8	199.4
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_1.wcnf
+time limit:60s
+12	2.28
+time limit:300s
+12	2.28
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_2.wcnf
+time limit:60s
+13	9.81
+time limit:300s
+12	131.03
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_2_10_2.wcnf
+time limit:60s
+8	35.95
+time limit:300s
+8	35.95
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_3_10_0.wcnf
+time limit:60s
+9	40.38
+time limit:300s
+9	40.38
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_3_10_1.wcnf
+time limit:60s
+9	46.04
+time limit:300s
+8	117.54
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_3_10_4.wcnf
+time limit:60s
+10	35.16
+time limit:300s
+8	77.45
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_1.wcnf
+time limit:60s
+8	21.9
+time limit:300s
+7	157.26
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_2.wcnf
+time limit:60s
+7	2.18
+time limit:300s
+7	2.18
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_3.wcnf
+time limit:60s
+9	38.08
+time limit:300s
+9	38.08
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_4.wcnf
+time limit:60s
+7	15.27
+time limit:300s
+7	15.27
+../MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.1_2_10_1.wcnf
+time limit:60s
+8	2.68
+time limit:300s
+8	2.68
+../MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_10_0.wcnf
+time limit:60s
+221	51.85
+time limit:300s
+221	51.85
+../MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_14_0.wcnf
+time limit:60s
+297	37.26
+time limit:300s
+297	37.26
+../MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_2_0.wcnf
+time limit:60s
+243	18.1
+time limit:300s
+243	18.1
+../MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_5_0.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+284	76.22
+../MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_6_0.wcnf
+time limit:60s
+278	16.14
+time limit:300s
+278	16.14
+../MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_7_0.wcnf
+time limit:60s
+276	16.76
+time limit:300s
+276	16.76
+../MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_8_0.wcnf
+time limit:60s
+299	50.91
+time limit:300s
+299	50.91
+../MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_9_0.wcnf
+time limit:60s
+243	25.34
+time limit:300s
+243	25.34
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_2bitcomp_5.wcnf
+time limit:60s
+19	20.02
+time limit:300s
+16	69.08
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_aim-50-1_6-no-3.wcnf
+time limit:60s
+11	40.24
+time limit:300s
+11	40.24
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_aim-50-2_0-no-3.wcnf
+time limit:60s
+13	9.4
+time limit:300s
+13	9.4
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_b01.wcnf
+time limit:60s
+7	14.68
+time limit:300s
+7	14.68
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_dubois20.wcnf
+time limit:60s
+5	39.89
+time limit:300s
+4	284.93
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_dubois23.wcnf
+time limit:60s
+5	4.39
+time limit:300s
+4	67.28
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_dubois24.wcnf
+time limit:60s
+4	17.88
+time limit:300s
+4	17.88
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_dubois28.wcnf
+time limit:60s
+5	32.85
+time limit:300s
+5	32.85
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_dubois30.wcnf
+time limit:60s
+6	35.74
+time limit:300s
+6	35.74
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_flat30-1.wcnf
+time limit:60s
+26	20.1
+time limit:300s
+26	20.1
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_flat30-99.wcnf
+time limit:60s
+26	18.76
+time limit:300s
+22	159.86
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_grid3d_5.wcnf
+time limit:60s
+12	7.24
+time limit:300s
+11	151.84
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_grid4d_3.wcnf
+time limit:60s
+8	1.42
+time limit:300s
+7	224.66
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_par8-2-c.wcnf
+time limit:60s
+10	15.35
+time limit:300s
+9	192.13
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_par8-4-c.wcnf
+time limit:60s
+13	9.46
+time limit:300s
+12	84.1
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_par8-5-c.wcnf
+time limit:60s
+15	31.6
+time limit:300s
+15	31.6
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_uf20-01.wcnf
+time limit:60s
+6	0.54
+time limit:300s
+6	0.54
+../MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_uf20-050.wcnf
+time limit:60s
+6	0.37
+time limit:300s
+6	0.37
+../MS19/mse19-incomplete-unweighted-benchmarks/hs-timetabling/GreeceWesternGreeceUniversityInstance4.xml.wcnf
+time limit:60s
+143	34.76
+time limit:300s
+143	34.76
+../MS19/mse19-incomplete-unweighted-benchmarks/logic-synthesis/normalized-test4.pi.opb.msat.wcnf
+time limit:60s
+117	0.53
+time limit:300s
+115	199.28
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/MANN_a45.clq.wcnf
+time limit:60s
+697	0.01
+time limit:300s
+697	0.01
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/MANN_a81.clq.wcnf
+time limit:60s
+2227	13.48
+time limit:300s
+2226	62.44
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock200_1.clq.wcnf
+time limit:60s
+252	32.32
+time limit:300s
+242	167.74
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock400_2.clq.wcnf
+time limit:60s
+272	17.32
+time limit:300s
+262	68.88
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock400_3.clq.wcnf
+time limit:60s
+375	0.42
+time limit:300s
+369	190.42
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock800_1.clq.wcnf
+time limit:60s
+221	48.43
+time limit:300s
+213	236.27
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock800_3.clq.wcnf
+time limit:60s
+779	8.64
+time limit:300s
+779	8.64
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock800_4.clq.wcnf
+time limit:60s
+779	9.29
+time limit:300s
+779	9.29
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/hamming10-4.clq.wcnf
+time limit:60s
+984	0.11
+time limit:300s
+984	0.11
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/p_hat1000-1.clq.wcnf
+time limit:60s
+990	0.65
+time limit:300s
+990	0.65
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/p_hat1000-3.clq.wcnf
+time limit:60s
+932	0.7
+time limit:300s
+932	0.7
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/p_hat500-2.clq.wcnf
+time limit:60s
+464	0.04
+time limit:300s
+464	0.04
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/p_hat700-1.clq.wcnf
+time limit:60s
+689	1.59
+time limit:300s
+689	1.59
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/p_hat700-3.clq.wcnf
+time limit:60s
+638	0.16
+time limit:300s
+638	0.16
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/sanr200_0.9.clq.wcnf
+time limit:60s
+158	0.01
+time limit:300s
+158	0.01
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/sanr400_0.5.clq.wcnf
+time limit:60s
+387	0.68
+time limit:300s
+387	0.68
+../MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/sanr400_0.7.clq.wcnf
+time limit:60s
+379	0.41
+time limit:300s
+379	0.41
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/bipartite/maxcut-140-630-0.7-31.wcnf
+time limit:60s
+174	1.09
+time limit:300s
+174	1.09
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/bipartite/maxcut-140-630-0.8-17.wcnf
+time limit:60s
+178	1.13
+time limit:300s
+178	1.13
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/bipartite/maxcut-140-630-0.8-7.wcnf
+time limit:60s
+172	0.51
+time limit:300s
+172	0.51
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/MANN_a27.clq.wcnf
+time limit:60s
+406	24.74
+time limit:300s
+406	24.74
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/brock200_1.clq.wcnf
+time limit:60s
+179	0.09
+time limit:300s
+179	0.09
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/brock400_2.clq.wcnf
+time limit:60s
+375	0.1
+time limit:300s
+375	0.1
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/brock800_1.clq.wcnf
+time limit:60s
+779	35.41
+time limit:300s
+779	35.41
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/hamming10-2.clq.wcnf
+time limit:60s
+400	0
+time limit:300s
+400	0
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/keller5.clq.wcnf
+time limit:60s
+271	8.38
+time limit:300s
+271	8.38
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/p_hat300-3.clq.wcnf
+time limit:60s
+289	26.42
+time limit:300s
+284	264.04
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/san200_0.7_1.clq.wcnf
+time limit:60s
+251	22.14
+time limit:300s
+247	153.46
+../MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/san400_0.7_2.clq.wcnf
+time limit:60s
+247	57.23
+time limit:300s
+245	164.51
+../MS19/mse19-incomplete-unweighted-benchmarks/mbd/b14_C-mbd14-0277.wcnf
+time limit:60s
+39	8.8
+time limit:300s
+39	8.8
+../MS19/mse19-incomplete-unweighted-benchmarks/mbd/b14_C-mbd14-0310.wcnf
+time limit:60s
+38	34.03
+time limit:300s
+25	173.04
+../MS19/mse19-incomplete-unweighted-benchmarks/mbd/b14_C-mbd14-0337.wcnf
+time limit:60s
+31	46.78
+time limit:300s
+29	188.72
+../MS19/mse19-incomplete-unweighted-benchmarks/mbd/b14_C-mbd14-0388.wcnf
+time limit:60s
+29	18.42
+time limit:300s
+26	92.9
+../MS19/mse19-incomplete-unweighted-benchmarks/mbd/b21_C-mbd14-0218.wcnf
+time limit:60s
+40	8.34
+time limit:300s
+34	293.33
+../MS19/mse19-incomplete-unweighted-benchmarks/mbd/b21_C-mbd14-0322.wcnf
+time limit:60s
+50	14.36
+time limit:300s
+48	122.73
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_miles1500.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+1860	141.41
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_mulsol.i.2.wcnf
+time limit:60s
+399	41.72
+time limit:300s
+286	245.34
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_mulsol.i.5.wcnf
+time limit:60s
+417	39.1
+time limit:300s
+324	289.79
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_myciel6.wcnf
+time limit:60s
+836	30.66
+time limit:300s
+819	175.07
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_myciel7.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+3268	82.78
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen11_11.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+4517	162.5
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen6_6.wcnf
+time limit:60s
+233	2.84
+time limit:300s
+233	2.84
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen7_7.wcnf
+time limit:60s
+513	4.65
+time limit:300s
+508	282.96
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen8_12.wcnf
+time limit:60s
+2473	49.01
+time limit:300s
+2473	49.01
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen8_8.wcnf
+time limit:60s
+1075	31.47
+time limit:300s
+1075	31.47
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen9_9.wcnf
+time limit:60s
+1683	18.49
+time limit:300s
+1657	200
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R1_games120.wcnf
+time limit:60s
+1921	58.48
+time limit:300s
+1921	58.48
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R3_miles1000.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+2544	74.52
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R3_miles750.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+1887	60.34
+../MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R4_miles500.wcnf
+time limit:60s
+842	23.75
+time limit:300s
+842	23.75
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_add_4_carry_33.wcnf
+time limit:60s
+191	20.59
+time limit:300s
+190	267.62
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_add_6_carry_991.wcnf
+time limit:60s
+113	13.18
+time limit:300s
+113	13.18
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_cvc-add7to3_9999.wcnf
+time limit:60s
+198	0.12
+time limit:300s
+196	192.78
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_3_5_9999.wcnf
+time limit:60s
+64	44.9
+time limit:300s
+61	293.27
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_3_6_9999.wcnf
+time limit:60s
+70	25.51
+time limit:300s
+66	229.89
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_5_33.wcnf
+time limit:60s
+747	43.54
+time limit:300s
+741	164.77
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_5_399.wcnf
+time limit:60s
+748	1.09
+time limit:300s
+745	207.26
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_5_991.wcnf
+time limit:60s
+130	17.53
+time limit:300s
+130	17.53
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_5_9999.wcnf
+time limit:60s
+213	0.92
+time limit:300s
+213	0.92
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_6_991.wcnf
+time limit:60s
+161	41.57
+time limit:300s
+161	41.57
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_6_9999.wcnf
+time limit:60s
+384	11.88
+time limit:300s
+383	297.74
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_7_991.wcnf
+time limit:60s
+177	4.62
+time limit:300s
+175	194.5
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_5_5_399.wcnf
+time limit:60s
+2359	53.68
+time limit:300s
+2354	287.38
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_5_5_991.wcnf
+time limit:60s
+263	1.29
+time limit:300s
+259	261.94
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_5_5_9999.wcnf
+time limit:60s
+557	4.35
+time limit:300s
+553	158.29
+../MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_square_5_9999.wcnf
+time limit:60s
+61	3.74
+time limit:300s
+61	3.74
+../MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/garden/normalized-g100x100.opb.msat.wcnf
+time limit:60s
+2280	43.55
+time limit:300s
+2258	102.5
+../MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/primes-dimacs-cnf/normalized-par32-1.opb.msat.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/primes-dimacs-cnf/normalized-par32-2.opb.msat.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/primes-dimacs-cnf/normalized-par32-3.opb.msat.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/primes-dimacs-cnf/normalized-par32-4.opb.msat.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/primes-dimacs-cnf/normalized-par32-5.opb.msat.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/railway-transport/d4.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+2212	242.37
+../MS19/mse19-incomplete-unweighted-benchmarks/railway-transport/pesp_18Min.wcnf
+time limit:60s
+393	53.38
+time limit:300s
+361	171.62
+../MS19/mse19-incomplete-unweighted-benchmarks/railway-transport/pesp_5min.wcnf
+time limit:60s
+79	53.82
+time limit:300s
+72	85.4
+../MS19/mse19-incomplete-unweighted-benchmarks/railway-transport/we.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n10.ra0.wcnf
+time limit:60s
+4	0
+time limit:300s
+4	0
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n11.ra0.wcnf
+time limit:60s
+7	0
+time limit:300s
+7	0
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n12.ra0.wcnf
+time limit:60s
+10	0
+time limit:300s
+10	0
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n13.ra0.wcnf
+time limit:60s
+16	0
+time limit:300s
+16	0
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n14.ra0.wcnf
+time limit:60s
+21	0
+time limit:300s
+21	0
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n15.ra0.wcnf
+time limit:60s
+30	0.01
+time limit:300s
+30	0.01
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n16.ra0.wcnf
+time limit:60s
+39	0.01
+time limit:300s
+39	0.01
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n17.ra0.wcnf
+time limit:60s
+50	0.01
+time limit:300s
+50	0.01
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n18.ra0.wcnf
+time limit:60s
+60	0.01
+time limit:300s
+60	0.01
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n19.ra0.wcnf
+time limit:60s
+75	0.01
+time limit:300s
+75	0.01
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n20.ra0.wcnf
+time limit:60s
+90	0.01
+time limit:300s
+90	0.01
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k4_n18.ra0.wcnf
+time limit:60s
+9	0.01
+time limit:300s
+9	0.01
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k4_n19.ra0.wcnf
+time limit:60s
+15	0
+time limit:300s
+15	0
+../MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k4_n20.ra0.wcnf
+time limit:60s
+24	0.01
+time limit:300s
+24	0.01
+../MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-12.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-14.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-16.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-18.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-20.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-22.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-24.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-26.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-28.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-30.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-32.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/scheduling/cnf_10.wcnf
+time limit:60s
+134	44.86
+time limit:300s
+132	114.63
+../MS19/mse19-incomplete-unweighted-benchmarks/scheduling/cnf_10_center.wcnf
+time limit:60s
+217	53.2
+time limit:300s
+217	53.2
+../MS19/mse19-incomplete-unweighted-benchmarks/scheduling/cnf_12.wcnf
+time limit:60s
+129	43.74
+time limit:300s
+107	277.9
+../MS19/mse19-incomplete-unweighted-benchmarks/scheduling/cnf_12_center.wcnf
+time limit:60s
+286	37.21
+time limit:300s
+273	265.95
+../MS19/mse19-incomplete-unweighted-benchmarks/scheduling/cnf_small.wcnf
+time limit:60s
+51	26
+time limit:300s
+51	26
+../MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpclr/scpclr11_maxsat.wcnf
+time limit:60s
+24	0.62
+time limit:300s
+23	121.88
+../MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpclr/scpclr12_maxsat.wcnf
+time limit:60s
+26	2.6
+time limit:300s
+26	2.6
+../MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpclr/scpclr13_maxsat.wcnf
+time limit:60s
+29	45.46
+time limit:300s
+29	45.46
+../MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc06_maxsat.wcnf
+time limit:60s
+62	0.51
+time limit:300s
+62	0.51
+../MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc07_maxsat.wcnf
+time limit:60s
+158	2.11
+time limit:300s
+158	2.11
+../MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc08_maxsat.wcnf
+time limit:60s
+390	6.7
+time limit:300s
+387	84.79
+../MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc09_maxsat.wcnf
+time limit:60s
+841	53.82
+time limit:300s
+825	202.63
+../MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc10_maxsat.wcnf
+time limit:60s
+1939	0.46
+time limit:300s
+1926	134.75
+../MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc11_maxsat.wcnf
+time limit:60s
+4345	22.03
+time limit:300s
+4345	22.03
+../MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_1c75_N69.wcnf
+time limit:60s
+38	26.49
+time limit:300s
+32	75.26
+../MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_1dj7_N73.wcnf
+time limit:60s
+29	41.55
+time limit:300s
+27	209.21
+../MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_1dp_N76.wcnf
+time limit:60s
+29	55.15
+time limit:300s
+28	259.1
+../MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_eil51.tsp_N51.wcnf
+time limit:60s
+10	23.16
+time limit:300s
+10	23.16
+../MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_myciel5_N47.wcnf
+time limit:60s
+19	22.35
+time limit:300s
+19	22.35
+../MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_queen5_5_N25.wcnf
+time limit:60s
+18	0.29
+time limit:300s
+18	0.29
+../MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_queen6_6_N36.wcnf
+time limit:60s
+26	48.77
+time limit:300s
+26	48.77
+../MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_queen7_7_N49.wcnf
+time limit:60s
+38	13.18
+time limit:300s
+36	153.2
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-plb-nr250-nc83-n5-k2-rpp3-ppr5-plb90.wcnf
+time limit:60s
+79	5.16
+time limit:300s
+79	5.16
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr12-plb100.wcnf
+time limit:60s
+75	11.49
+time limit:300s
+75	11.49
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr14-plb100.wcnf
+time limit:60s
+68	0.09
+time limit:300s
+68	0.09
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr7-plb100.wcnf
+time limit:60s
+71	6.83
+time limit:300s
+71	6.83
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr9-plb100.wcnf
+time limit:60s
+74	4.4
+time limit:300s
+74	4.4
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr10-plb100.wcnf
+time limit:60s
+67	8.19
+time limit:300s
+67	8.19
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr11-plb100.wcnf
+time limit:60s
+71	0.03
+time limit:300s
+71	0.03
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr12-plb100.wcnf
+time limit:60s
+68	42.71
+time limit:300s
+68	42.71
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr13-plb100.wcnf
+time limit:60s
+73	9.67
+time limit:300s
+73	9.67
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr14-plb100.wcnf
+time limit:60s
+74	10.58
+time limit:300s
+74	10.58
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr5-plb100.wcnf
+time limit:60s
+65	6.01
+time limit:300s
+65	6.01
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr6-plb100.wcnf
+time limit:60s
+66	16.96
+time limit:300s
+66	16.96
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr7-plb100.wcnf
+time limit:60s
+67	2.79
+time limit:300s
+67	2.79
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr8-plb100.wcnf
+time limit:60s
+63	1.38
+time limit:300s
+63	1.38
+../MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr9-plb100.wcnf
+time limit:60s
+63	1.96
+time limit:300s
+63	1.96
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/australian.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/bupa.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+402	71.31
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/cleveland-nominal.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/cleveland.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+630	86.88
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/colic.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+340	186.32
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/diabetes.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/ecoli.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/heart-h.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+324	63.94
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/heart-statlog.wcnf
+time limit:60s
+255	35.27
+time limit:300s
+208	201.35
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/hepatitis.wcnf
+time limit:60s
+72	51.95
+time limit:300s
+72	51.95
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/hungarian.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+360	74.51
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/liver-disorder.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+398	225.26
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/postoperative-patient-data.wcnf
+time limit:60s
+95	14.81
+time limit:300s
+79	221.54
+../MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/shuttleM.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/adult_train_3_CNF_5_1.wcnf
+time limit:60s
+4648	58.84
+time limit:300s
+4648	58.84
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/compas_train_4_DNF_4_1.wcnf
+time limit:60s
+2333	8.51
+time limit:300s
+2264	104.08
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/compas_train_4_DNF_5_1.wcnf
+time limit:60s
+2321	10.4
+time limit:300s
+2151	183.7
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/credit_test_0_CNF_4_1.wcnf
+time limit:60s
+518	4.32
+time limit:300s
+518	4.32
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/credit_train_0_CNF_2_1.wcnf
+time limit:60s
+7883	0.67
+time limit:300s
+4995	84.7
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/credit_train_1_CNF_3_1.wcnf
+time limit:60s
+5541	52.51
+time limit:300s
+4855	149.78
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/credit_train_4_CNF_5_1.wcnf
+time limit:60s
+20862	2.6
+time limit:300s
+20862	2.6
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/credit_train_6_DNF_3_1.wcnf
+time limit:60s
+5983	0.66
+time limit:300s
+4981	70.16
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/heart_train_0_CNF_5_1.wcnf
+time limit:60s
+49	36.24
+time limit:300s
+49	36.24
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/heart_train_1_DNF_3_1.wcnf
+time limit:60s
+46	0.68
+time limit:300s
+46	0.68
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/heart_train_4_CNF_5_1.wcnf
+time limit:60s
+49	15.55
+time limit:300s
+48	65.49
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/ionosphere_train_1_CNF_3_1.wcnf
+time limit:60s
+23	18.94
+time limit:300s
+23	18.94
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/ionosphere_train_1_CNF_4_1.wcnf
+time limit:60s
+24	0.6
+time limit:300s
+24	0.6
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/tictactoe_train_6_CNF_4_1.wcnf
+time limit:60s
+123	14.48
+time limit:300s
+119	268.15
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/toms_test_1_DNF_2_1.wcnf
+time limit:60s
+60	1.77
+time limit:300s
+59	104.65
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/toms_train_1_CNF_2_1.wcnf
+time limit:60s
+710	36.17
+time limit:300s
+710	36.17
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/toms_train_4_DNF_5_1.wcnf
+time limit:60s
+1018	7.12
+time limit:300s
+635	71.31
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/twitter_test_1_CNF_2_1.wcnf
+time limit:60s
+185	2.98
+time limit:300s
+183	286.08
+../MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/wdbc_train_7_DNF_5_1.wcnf
+time limit:60s
+21	1.16
+time limit:300s
+21	1.16
+../MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g10_n13e12_n13e12_n14e13_n14e13_n14e13_n14e13_n14e13_n15e13_n15e14_n15e14.wcnf
+time limit:60s
+1	0.01
+time limit:300s
+1	0.01
+../MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n13e12_n46e57.wcnf
+time limit:60s
+1	0.01
+time limit:300s
+1	0.01
+../MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n35e34_n58e61.wcnf
+time limit:60s
+21	0.84
+time limit:300s
+21	0.84
+../MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n42e55_n44e53.wcnf
+time limit:60s
+33	8.08
+time limit:300s
+33	8.08
+../MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n57e60_n61e85.wcnf
+time limit:60s
+44	0.53
+time limit:300s
+44	0.53
+../MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n61e68_n73e75.wcnf
+time limit:60s
+51	1.25
+time limit:300s
+50	71.93
+../MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n63e71_n74e99.wcnf
+time limit:60s
+53	48.04
+time limit:300s
+53	48.04
+../MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n67e83_n68e73.wcnf
+time limit:60s
+53	1.14
+time limit:300s
+51	299.28
+../MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g3_n46e48_n58e61_n75e81.wcnf
+time limit:60s
+35	1.85
+time limit:300s
+35	1.85
+../MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g4_n47e58_n55e66_n61e85_n67e83.wcnf
+time limit:60s
+44	38.11
+time limit:300s
+44	38.11
+../MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g4_n56e84_n61e85_n62e78_n63e71.wcnf
+time limit:60s
+74	1.65
+time limit:300s
+74	1.65
+../MS20/mse20-incomplete-unweighted/SeanSafarpour/SM_AS_TOP_buggy1.dimacs.filtered.wcnf
+time limit:60s
+84	0.43
+time limit:300s
+76	259.21
+../MS20/mse20-incomplete-unweighted/SeanSafarpour/SM_MAIN_MEM_buggy1.dimacs.filtered.wcnf
+time limit:60s
+570	32.36
+time limit:300s
+535	129.05
+../MS20/mse20-incomplete-unweighted/SeanSafarpour/rsdecoder-problem.dimacs_38.filtered.wcnf
+time limit:60s
+2	3.37
+time limit:300s
+2	3.37
+../MS20/mse20-incomplete-unweighted/SeanSafarpour/rsdecoder-problem.dimacs_41.filtered.wcnf
+time limit:60s
+2	3.43
+time limit:300s
+2	3.43
+../MS20/mse20-incomplete-unweighted/SeanSafarpour/rsdecoder1_blackbox_KESblock-problem.dimacs_30.filtered.wcnf
+time limit:60s
+65	1.25
+time limit:300s
+32	180.98
+../MS20/mse20-incomplete-unweighted/SeanSafarpour/rsdecoder4.dimacs.filtered.wcnf
+time limit:60s
+43	24.07
+time limit:300s
+25	213.95
+../MS20/mse20-incomplete-unweighted/SeanSafarpour/rsdecoder6.dimacs.filtered.wcnf
+time limit:60s
+93	47.03
+time limit:300s
+7	285.78
+../MS20/mse20-incomplete-unweighted/SeanSafarpour/wb_4m8s-problem.dimacs_47.filtered.wcnf
+time limit:60s
+42	10.9
+time limit:300s
+33	176.34
+../MS20/mse20-incomplete-unweighted/SeanSafarpour/wb_4m8s-problem.dimacs_49.filtered.wcnf
+time limit:60s
+245	46.31
+time limit:300s
+224	289.03
+../MS20/mse20-incomplete-unweighted/SeanSafarpour/wb_4m8s4.dimacs.filtered.wcnf
+time limit:60s
+228	41.92
+time limit:300s
+225	233.94
+../MS20/mse20-incomplete-unweighted/aes/mul_8_11.wcnf
+time limit:60s
+64	8.49
+time limit:300s
+64	8.49
+../MS20/mse20-incomplete-unweighted/aes/mul_8_13.wcnf
+time limit:60s
+65	7.85
+time limit:300s
+62	172.05
+../MS20/mse20-incomplete-unweighted/aes/mul_8_14.wcnf
+time limit:60s
+60	8.95
+time limit:300s
+60	8.95
+../MS20/mse20-incomplete-unweighted/aes/mul_8_9.wcnf
+time limit:60s
+45	11.46
+time limit:300s
+44	211.78
+../MS20/mse20-incomplete-unweighted/aes/sbox_8.wcnf
+time limit:60s
+810	125.51
+time limit:300s
+372	289.34
+../MS20/mse20-incomplete-unweighted/aes-key-recovery/AES1-76-36.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/aes-key-recovery/AES1-76-38.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/aes-key-recovery/AES2-72-67.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_02.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_03.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_04.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_05.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_15.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_18.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_02.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_03.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_04.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_05.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+100	84.21
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_15.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_18.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/bcp/SU-100kb__simp-genos.haps.1.wcnf
+time limit:60s
+54	11.79
+time limit:300s
+54	11.79
+../MS20/mse20-incomplete-unweighted/bcp/SU-100kb__simp-genos.haps.12.wcnf
+time limit:60s
+67	0.85
+time limit:300s
+67	0.85
+../MS20/mse20-incomplete-unweighted/bcp/SU-100kb__simp-genos.haps.21.wcnf
+time limit:60s
+57	42.45
+time limit:300s
+57	42.45
+../MS20/mse20-incomplete-unweighted/bcp/SU-100kb__simp-genos.haps.22.wcnf
+time limit:60s
+65	11.15
+time limit:300s
+64	63.77
+../MS20/mse20-incomplete-unweighted/bcp/SU-100kb__simp-genos.haps.3.wcnf
+time limit:60s
+55	0.79
+time limit:300s
+55	0.79
+../MS20/mse20-incomplete-unweighted/bcp/SU3__simp-genos.haps.63.wcnf
+time limit:60s
+90	38.87
+time limit:300s
+90	38.87
+../MS20/mse20-incomplete-unweighted/bcp/SU3__simp-genos.haps.80.wcnf
+time limit:60s
+105	2.05
+time limit:300s
+103	61.55
+../MS20/mse20-incomplete-unweighted/bcp/SU3__simp-genos.haps.9.wcnf
+time limit:60s
+106	47.98
+time limit:300s
+106	47.98
+../MS20/mse20-incomplete-unweighted/bcp/normalized-ex1010.pi.wcnf
+time limit:60s
+292	42.85
+time limit:300s
+289	98.35
+../MS20/mse20-incomplete-unweighted/bcp/normalized-fir08_area_opers.wcnf
+time limit:60s
+51	35.77
+time limit:300s
+51	35.77
+../MS20/mse20-incomplete-unweighted/bcp/normalized-g125.18.wcnf
+time limit:60s
+2228	7.87
+time limit:300s
+2228	7.87
+../MS20/mse20-incomplete-unweighted/bcp/normalized-par32-1.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/bcp/normalized-par32-3-c.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/bcp/normalized-test4.pi.wcnf
+time limit:60s
+114	35.36
+time limit:300s
+113	119.68
+../MS20/mse20-incomplete-unweighted/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.2.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+1509	244.91
+../MS20/mse20-incomplete-unweighted/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.3.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-10.cnf.wcnf.3.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/close_solutions/SAT11__application__rintanen__SATPlanning__blocks-blocks-36-0.170-NOTKNOWN.cnf.wcnf.6.wcnf
+time limit:60s
+48	19.02
+time limit:300s
+48	19.02
+../MS20/mse20-incomplete-unweighted/des/cnf.19.p.10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/des/cnf.20.p.10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/des/cnf.20.p.8.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/exploits-synthesis/meltdown_min.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/exploits-synthesis/spectre_min.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_150_0.05_2_8_4.wcnf
+time limit:60s
+4	0.43
+time limit:300s
+4	0.43
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_150_0.1_2_8_2.wcnf
+time limit:60s
+8	16.71
+time limit:300s
+8	16.71
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_0.wcnf
+time limit:60s
+9	45.57
+time limit:300s
+8	191.46
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_1.wcnf
+time limit:60s
+12	2.29
+time limit:300s
+12	2.29
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_2.wcnf
+time limit:60s
+13	9.95
+time limit:300s
+12	127.89
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_2_10_2.wcnf
+time limit:60s
+8	36.02
+time limit:300s
+8	36.02
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_3_10_0.wcnf
+time limit:60s
+9	40.67
+time limit:300s
+9	40.67
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_3_10_1.wcnf
+time limit:60s
+9	46.45
+time limit:300s
+8	110.91
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_1.wcnf
+time limit:60s
+8	22.22
+time limit:300s
+7	151.04
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_2.wcnf
+time limit:60s
+7	1.18
+time limit:300s
+7	1.18
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_3.wcnf
+time limit:60s
+9	38.37
+time limit:300s
+9	38.37
+../MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.1_2_10_1.wcnf
+time limit:60s
+8	1.49
+time limit:300s
+8	1.49
+../MS20/mse20-incomplete-unweighted/fault-diagnosis/s38584_nan_explicit_2_0.wcnf
+time limit:60s
+243	17.76
+time limit:300s
+243	17.76
+../MS20/mse20-incomplete-unweighted/fault-diagnosis/s38584_nan_explicit_7_0.wcnf
+time limit:60s
+276	16.56
+time limit:300s
+276	16.56
+../MS20/mse20-incomplete-unweighted/fault-diagnosis/s38584_nan_explicit_8_0.wcnf
+time limit:60s
+299	40.22
+time limit:300s
+299	40.22
+../MS20/mse20-incomplete-unweighted/fault-diagnosis/s38584_nan_explicit_9_0.wcnf
+time limit:60s
+243	23.32
+time limit:300s
+243	23.32
+../MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_aim-50-2_0-yes1-3.wcnf
+time limit:60s
+12	36.9
+time limit:300s
+12	36.9
+../MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_atv_partial_system.wcnf
+time limit:60s
+12	12.6
+time limit:300s
+12	12.6
+../MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_dubois24.wcnf
+time limit:60s
+4	18.1
+time limit:300s
+4	18.1
+../MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_flat30-50.wcnf
+time limit:60s
+22	20.6
+time limit:300s
+20	284.4
+../MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_grid4d_3.wcnf
+time limit:60s
+8	1.46
+time limit:300s
+7	230.68
+../MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_hole6.wcnf
+time limit:60s
+7	1.61
+time limit:300s
+7	1.61
+../MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_hole9.wcnf
+time limit:60s
+11	10.21
+time limit:300s
+10	65.31
+../MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_par8-5-c.wcnf
+time limit:60s
+15	26.6
+time limit:300s
+15	26.6
+../MS20/mse20-incomplete-unweighted/hs-timetabling/GreeceWesternGreeceUniversityInstance4.xml.wcnf
+time limit:60s
+143	25.67
+time limit:300s
+143	25.67
+../MS20/mse20-incomplete-unweighted/large-graph-commmunity/AMAZON.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/large-graph-commmunity/DBLP.wcnf
+time limit:60s
+80565	2.2
+time limit:300s
+80565	2.2
+../MS20/mse20-incomplete-unweighted/large-graph-commmunity/YOUTUBE.wcnf
+time limit:60s
+110556	10.59
+time limit:300s
+110556	10.59
+../MS20/mse20-incomplete-unweighted/logic-synthesis/normalized-test4.pi.opb.msat.wcnf
+time limit:60s
+117	0.29
+time limit:300s
+115	151.51
+../MS20/mse20-incomplete-unweighted/maxclique/MANN_a81.clq.wcnf
+time limit:60s
+2226	37.34
+time limit:300s
+2226	37.34
+../MS20/mse20-incomplete-unweighted/maxclique/brock400_1.clq.wcnf
+time limit:60s
+375	0.26
+time limit:300s
+375	0.26
+../MS20/mse20-incomplete-unweighted/maxclique/brock400_4.clq.wcnf
+time limit:60s
+375	1.34
+time limit:300s
+375	1.34
+../MS20/mse20-incomplete-unweighted/maxclique/brock800_2.clq.wcnf
+time limit:60s
+779	15.38
+time limit:300s
+779	15.38
+../MS20/mse20-incomplete-unweighted/maxclique/p_hat1000-1.clq.wcnf
+time limit:60s
+990	0.37
+time limit:300s
+990	0.37
+../MS20/mse20-incomplete-unweighted/maxclique/p_hat1000-3.clq.wcnf
+time limit:60s
+932	0.7
+time limit:300s
+932	0.7
+../MS20/mse20-incomplete-unweighted/maxclique/p_hat300-3.clq.wcnf
+time limit:60s
+264	0.01
+time limit:300s
+264	0.01
+../MS20/mse20-incomplete-unweighted/maxclique/p_hat500-3.clq.wcnf
+time limit:60s
+450	0.09
+time limit:300s
+450	0.09
+../MS20/mse20-incomplete-unweighted/maxclique/p_hat700-1.clq.wcnf
+time limit:60s
+689	1.05
+time limit:300s
+689	1.05
+../MS20/mse20-incomplete-unweighted/maxclique/p_hat700-3.clq.wcnf
+time limit:60s
+638	0.17
+time limit:300s
+638	0.17
+../MS20/mse20-incomplete-unweighted/maxclique/sanr400_0.7.clq.wcnf
+time limit:60s
+379	0.4
+time limit:300s
+379	0.4
+../MS20/mse20-incomplete-unweighted/maxcut/MANN_a27.clq.wcnf
+time limit:60s
+406	22.76
+time limit:300s
+406	22.76
+../MS20/mse20-incomplete-unweighted/maxcut/MANN_a45.clq.wcnf
+time limit:60s
+418	6.05
+time limit:300s
+418	6.05
+../MS20/mse20-incomplete-unweighted/maxcut/MANN_a81.clq.wcnf
+time limit:60s
+399	0
+time limit:300s
+399	0
+../MS20/mse20-incomplete-unweighted/maxcut/MANN_a9.clq.wcnf
+time limit:60s
+430	24.29
+time limit:300s
+430	24.29
+../MS20/mse20-incomplete-unweighted/maxcut/c-fat500-10.clq.wcnf
+time limit:60s
+200	2.96
+time limit:300s
+200	2.96
+../MS20/mse20-incomplete-unweighted/maxcut/hamming10-2.clq.wcnf
+time limit:60s
+400	0
+time limit:300s
+400	0
+../MS20/mse20-incomplete-unweighted/maxcut/hamming6-2.clq.wcnf
+time limit:60s
+862	39.23
+time limit:300s
+862	39.23
+../MS20/mse20-incomplete-unweighted/maxcut/hamming8-2.clq.wcnf
+time limit:60s
+441	0
+time limit:300s
+441	0
+../MS20/mse20-incomplete-unweighted/maxcut/johnson8-4-4.clq.wcnf
+time limit:60s
+856	18.1
+time limit:300s
+854	65.73
+../MS20/mse20-incomplete-unweighted/mbd/b14_C-mbd14-0277.wcnf
+time limit:60s
+39	3.98
+time limit:300s
+39	3.98
+../MS20/mse20-incomplete-unweighted/mbd/b14_C-mbd14-0337.wcnf
+time limit:60s
+30	58.96
+time limit:300s
+29	162.55
+../MS20/mse20-incomplete-unweighted/mbd/b14_C-mbd14-0388.wcnf
+time limit:60s
+29	17.68
+time limit:300s
+24	257.66
+../MS20/mse20-incomplete-unweighted/mbd/b21_C-mbd14-0218.wcnf
+time limit:60s
+40	7.83
+time limit:300s
+34	270.84
+../MS20/mse20-incomplete-unweighted/mbd/b21_C-mbd14-0322.wcnf
+time limit:60s
+50	12.49
+time limit:300s
+48	109.43
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_myciel6.wcnf
+time limit:60s
+836	29.72
+time limit:300s
+819	156.21
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_myciel7.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+3268	74.84
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen11_11.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+4517	151.67
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen6_6.wcnf
+time limit:60s
+233	2.66
+time limit:300s
+233	2.66
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen7_7.wcnf
+time limit:60s
+513	3.36
+time limit:300s
+508	235.61
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen8_12.wcnf
+time limit:60s
+2473	43.08
+time limit:300s
+2473	43.08
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen8_8.wcnf
+time limit:60s
+1075	24.98
+time limit:300s
+1075	24.98
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen9_9.wcnf
+time limit:60s
+1683	11.93
+time limit:300s
+1657	164.78
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R1_games120.wcnf
+time limit:60s
+1921	45.7
+time limit:300s
+1921	45.7
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R3_miles1000.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+2544	71.07
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R3_miles750.wcnf
+time limit:60s
+1887	56.15
+time limit:300s
+1887	56.15
+../MS20/mse20-incomplete-unweighted/min-fill/MinFill_R4_miles500.wcnf
+time limit:60s
+842	23.1
+time limit:300s
+842	23.1
+../MS20/mse20-incomplete-unweighted/optic/gen_add_4_carry_33.wcnf
+time limit:60s
+191	12.17
+time limit:300s
+190	218.77
+../MS20/mse20-incomplete-unweighted/optic/gen_cvc-add7to3_9999.wcnf
+time limit:60s
+198	0.12
+time limit:300s
+196	179.19
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_3_5_9999.wcnf
+time limit:60s
+64	23.17
+time limit:300s
+61	225.54
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_3_6_9999.wcnf
+time limit:60s
+70	25.44
+time limit:300s
+66	211.89
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_4_5_33.wcnf
+time limit:60s
+747	41.68
+time limit:300s
+741	158.32
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_4_5_399.wcnf
+time limit:60s
+748	1.03
+time limit:300s
+745	196.28
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_4_5_991.wcnf
+time limit:60s
+130	14.82
+time limit:300s
+130	14.82
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_4_5_9999.wcnf
+time limit:60s
+213	0.91
+time limit:300s
+213	0.91
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_4_6_991.wcnf
+time limit:60s
+161	39.11
+time limit:300s
+161	39.11
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_4_6_9999.wcnf
+time limit:60s
+384	10.35
+time limit:300s
+383	260.27
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_4_7_991.wcnf
+time limit:60s
+177	4.62
+time limit:300s
+175	143.88
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_5_5_399.wcnf
+time limit:60s
+2359	42.36
+time limit:300s
+2354	231.41
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_5_5_991.wcnf
+time limit:60s
+263	1.14
+time limit:300s
+259	221.71
+../MS20/mse20-incomplete-unweighted/optic/gen_mult_5_5_9999.wcnf
+time limit:60s
+557	3.75
+time limit:300s
+553	118.65
+../MS20/mse20-incomplete-unweighted/optic/gen_square_5_9999.wcnf
+time limit:60s
+61	3.33
+time limit:300s
+61	3.33
+../MS20/mse20-incomplete-unweighted/phylogenetic-trees/ms_120_20_20-0.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/phylogenetic-trees/ms_200_12_20-2.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/phylogenetic-trees/ms_200_20_20-9.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/phylogenetic-trees/ms_260_20_20-0.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/phylogenetic-trees/ms_260_20_20-1.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/program_disambiguation/Q13_OPTIONS_1.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/program_disambiguation/Q22_OPTIONS_1.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-g100x100.opb.msat.wcnf
+time limit:60s
+2271	50.21
+time limit:300s
+2258	90.82
+../MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-par32-1.opb.msat.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-par32-2.opb.msat.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-par32-3.opb.msat.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-par32-4.opb.msat.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-par32-5.opb.msat.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/railroad_scheduling/MultiDay_1.wcnf
+time limit:60s
+81519	0.81
+time limit:300s
+77980	254.86
+../MS20/mse20-incomplete-unweighted/railroad_scheduling/MultiDay_3.wcnf
+time limit:60s
+163185	2.96
+time limit:300s
+161672	158.55
+../MS20/mse20-incomplete-unweighted/railroad_scheduling/MultiDay_4.wcnf
+time limit:60s
+196301	4.39
+time limit:300s
+194209	199.27
+../MS20/mse20-incomplete-unweighted/railroad_scheduling/SingleDay_37.wcnf
+time limit:60s
+82777	6.71
+time limit:300s
+82723	234.53
+../MS20/mse20-incomplete-unweighted/railway-transport/d4.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+2212	239.85
+../MS20/mse20-incomplete-unweighted/railway-transport/pesp_18Min.wcnf
+time limit:60s
+393	54.34
+time limit:300s
+321	277.53
+../MS20/mse20-incomplete-unweighted/railway-transport/pesp_5min.wcnf
+time limit:60s
+79	54.22
+time limit:300s
+72	86.15
+../MS20/mse20-incomplete-unweighted/railway-transport/we.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n12.ra0.wcnf
+time limit:60s
+10	0
+time limit:300s
+10	0
+../MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n13.ra0.wcnf
+time limit:60s
+16	0.01
+time limit:300s
+16	0.01
+../MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n14.ra0.wcnf
+time limit:60s
+21	0
+time limit:300s
+21	0
+../MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n16.ra0.wcnf
+time limit:60s
+39	0
+time limit:300s
+39	0
+../MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n17.ra0.wcnf
+time limit:60s
+50	0
+time limit:300s
+50	0
+../MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n18.ra0.wcnf
+time limit:60s
+60	0
+time limit:300s
+60	0
+../MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n19.ra0.wcnf
+time limit:60s
+75	0.04
+time limit:300s
+75	0.04
+../MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n20.ra0.wcnf
+time limit:60s
+90	0.01
+time limit:300s
+90	0.01
+../MS20/mse20-incomplete-unweighted/ramsey/ram_k4_n18.ra0.wcnf
+time limit:60s
+9	0
+time limit:300s
+9	0
+../MS20/mse20-incomplete-unweighted/ramsey/ram_k4_n19.ra0.wcnf
+time limit:60s
+15	0
+time limit:300s
+15	0
+../MS20/mse20-incomplete-unweighted/ramsey/ram_k4_n20.ra0.wcnf
+time limit:60s
+24	0.01
+time limit:300s
+24	0.01
+../MS20/mse20-incomplete-unweighted/reversi/rev66-12.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/reversi/rev66-14.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/reversi/rev66-16.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/reversi/rev66-18.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/reversi/rev66-20.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/reversi/rev66-22.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/reversi/rev66-24.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/reversi/rev66-26.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/reversi/rev66-28.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/reversi/rev66-30.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/reversi/rev66-32.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/scheduling/cnf_10.wcnf
+time limit:60s
+134	45.39
+time limit:300s
+132	114.64
+../MS20/mse20-incomplete-unweighted/scheduling/cnf_12.wcnf
+time limit:60s
+129	26.3
+time limit:300s
+107	255.28
+../MS20/mse20-incomplete-unweighted/scheduling/cnf_small.wcnf
+time limit:60s
+51	11.86
+time limit:300s
+50	281.11
+../MS20/mse20-incomplete-unweighted/set-covering/scpclr11_maxsat.wcnf
+time limit:60s
+24	1.46
+time limit:300s
+23	164
+../MS20/mse20-incomplete-unweighted/set-covering/scpclr12_maxsat.wcnf
+time limit:60s
+26	6.01
+time limit:300s
+26	6.01
+../MS20/mse20-incomplete-unweighted/set-covering/scpclr13_maxsat.wcnf
+time limit:60s
+29	46.35
+time limit:300s
+29	46.35
+../MS20/mse20-incomplete-unweighted/set-covering/scpcyc06_maxsat.wcnf
+time limit:60s
+62	0.93
+time limit:300s
+62	0.93
+../MS20/mse20-incomplete-unweighted/set-covering/scpcyc07_maxsat.wcnf
+time limit:60s
+158	2.13
+time limit:300s
+158	2.13
+../MS20/mse20-incomplete-unweighted/set-covering/scpcyc08_maxsat.wcnf
+time limit:60s
+390	3.43
+time limit:300s
+387	73.27
+../MS20/mse20-incomplete-unweighted/set-covering/scpcyc09_maxsat.wcnf
+time limit:60s
+841	53.99
+time limit:300s
+825	201.71
+../MS20/mse20-incomplete-unweighted/set-covering/scpcyc10_maxsat.wcnf
+time limit:60s
+1939	0.19
+time limit:300s
+1926	114.37
+../MS20/mse20-incomplete-unweighted/set-covering/scpcyc11_maxsat.wcnf
+time limit:60s
+4345	29.79
+time limit:300s
+4345	29.79
+../MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_1c75_N69.wcnf
+time limit:60s
+32	57.18
+time limit:300s
+32	57.18
+../MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_1dj7_N73.wcnf
+time limit:60s
+29	46.68
+time limit:300s
+27	213.63
+../MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_1dp_N76.wcnf
+time limit:60s
+29	56.71
+time limit:300s
+28	256.3
+../MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_mulsol.i.5-pp_N119.wcnf
+time limit:60s
+32	31.67
+time limit:300s
+31	108.06
+../MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_myciel5_N47.wcnf
+time limit:60s
+19	22.91
+time limit:300s
+19	22.91
+../MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_queen5_5_N25.wcnf
+time limit:60s
+18	0.13
+time limit:300s
+18	0.13
+../MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_queen6_6_N36.wcnf
+time limit:60s
+26	28.52
+time limit:300s
+26	28.52
+../MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_queen7_7_N49.wcnf
+time limit:60s
+37	59.91
+time limit:300s
+36	131.54
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr10-plb100.wcnf
+time limit:60s
+72	0.06
+time limit:300s
+71	100.13
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr11-plb100.wcnf
+time limit:60s
+76	49.24
+time limit:300s
+76	49.24
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr12-plb100.wcnf
+time limit:60s
+75	5.04
+time limit:300s
+75	5.04
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr13-plb100.wcnf
+time limit:60s
+76	8.52
+time limit:300s
+76	8.52
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr14-plb100.wcnf
+time limit:60s
+68	0.03
+time limit:300s
+68	0.03
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr6-plb100.wcnf
+time limit:60s
+66	0.26
+time limit:300s
+66	0.26
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr8-plb100.wcnf
+time limit:60s
+67	2.84
+time limit:300s
+67	2.84
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr9-plb100.wcnf
+time limit:60s
+74	4.41
+time limit:300s
+74	4.41
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr10-plb100.wcnf
+time limit:60s
+67	6.58
+time limit:300s
+67	6.58
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr11-plb100.wcnf
+time limit:60s
+71	0.03
+time limit:300s
+71	0.03
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr12-plb100.wcnf
+time limit:60s
+68	44.68
+time limit:300s
+68	44.68
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr13-plb100.wcnf
+time limit:60s
+73	7.28
+time limit:300s
+73	7.28
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr14-plb100.wcnf
+time limit:60s
+74	11.55
+time limit:300s
+74	11.55
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr5-plb100.wcnf
+time limit:60s
+65	2.7
+time limit:300s
+65	2.7
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr6-plb100.wcnf
+time limit:60s
+66	18.03
+time limit:300s
+66	18.03
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr7-plb100.wcnf
+time limit:60s
+67	2.85
+time limit:300s
+67	2.85
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr8-plb100.wcnf
+time limit:60s
+63	1.47
+time limit:300s
+63	1.47
+../MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr9-plb100.wcnf
+time limit:60s
+63	1.54
+time limit:300s
+63	1.54
+../MS20/mse20-incomplete-unweighted/xai-mindset2/australian.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/xai-mindset2/bupa.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+402	94.9
+../MS20/mse20-incomplete-unweighted/xai-mindset2/cleve.wcnf
+time limit:60s
+294	41.87
+time limit:300s
+231	95.56
+../MS20/mse20-incomplete-unweighted/xai-mindset2/colic.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+340	208.6
+../MS20/mse20-incomplete-unweighted/xai-mindset2/diabetes.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/xai-mindset2/ecoli.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/xai-mindset2/haberman.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/xai-mindset2/heart-c.wcnf
+time limit:60s
+275	48
+time limit:300s
+275	48
+../MS20/mse20-incomplete-unweighted/xai-mindset2/heart-h.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+324	67.53
+../MS20/mse20-incomplete-unweighted/xai-mindset2/heart-statlog.wcnf
+time limit:60s
+255	37.91
+time limit:300s
+208	228.2
+../MS20/mse20-incomplete-unweighted/xai-mindset2/hungarian.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+360	89.24
+../MS20/mse20-incomplete-unweighted/xai-mindset2/liver-disorder.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+398	289.58
+../MS20/mse20-incomplete-unweighted/xai-mindset2/postoperative-patient-data.wcnf
+time limit:60s
+95	9.26
+time limit:300s
+79	206.2
+../MS20/mse20-incomplete-unweighted/xai-mindset2/shuttleM.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS20/mse20-incomplete-unweighted/xai-mindset2/soybean.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/credit_train_1_DNF_3_1.wcnf
+time limit:60s
+6101	0.59
+time limit:300s
+6101	0.59
+../MS21/mse21_incomplete_unwt/MaximumCommonSub-GraphExtraction/solved/g2_n35e34_n58e61.wcnf
+time limit:60s
+21	1.03
+time limit:300s
+21	1.03
+../MS21/mse21_incomplete_unwt/aes/mul_8_11.wcnf
+time limit:60s
+64	8.77
+time limit:300s
+64	8.77
+../MS21/mse21_incomplete_unwt/aes/mul_8_13.wcnf
+time limit:60s
+65	7.31
+time limit:300s
+62	168.29
+../MS21/mse21_incomplete_unwt/aes/mul_8_14.wcnf
+time limit:60s
+60	8.34
+time limit:300s
+60	8.34
+../MS21/mse21_incomplete_unwt/aes/mul_8_3.wcnf
+time limit:60s
+37	15.09
+time limit:300s
+36	214.06
+../MS21/mse21_incomplete_unwt/aes/mul_8_9.wcnf
+time limit:60s
+45	10.53
+time limit:300s
+44	195.04
+../MS21/mse21_incomplete_unwt/aes/sbox_8.wcnf
+time limit:60s
+810	115.52
+time limit:300s
+372	269.61
+../MS21/mse21_incomplete_unwt/atcoss/mesat/atcoss_mesat_02.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/atcoss/mesat/atcoss_mesat_03.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/atcoss/mesat/atcoss_mesat_04.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/atcoss/mesat/atcoss_mesat_15.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/atcoss/mesat/atcoss_mesat_18.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/atcoss/sugar/atcoss_sugar_05.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/atcoss/sugar/atcoss_sugar_10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+110	227.72
+../MS21/mse21_incomplete_unwt/decision-tree/anneal-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/decision-tree/anneal-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+120	185.88
+../MS21/mse21_incomplete_unwt/decision-tree/australian-credit-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+73	220.77
+../MS21/mse21_incomplete_unwt/decision-tree/australian-credit-un/formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+73	130.21
+../MS21/mse21_incomplete_unwt/decision-tree/breast-cancer-un/rest/stratified/formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+91	154.28
+../MS21/mse21_incomplete_unwt/decision-tree/car-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+392	193.07
+../MS21/mse21_incomplete_unwt/decision-tree/heart-cleveland-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+52	74.14
+../MS21/mse21_incomplete_unwt/decision-tree/heart-cleveland-un/formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf
+time limit:60s
+52	33.06
+time limit:300s
+52	33.06
+../MS21/mse21_incomplete_unwt/decision-tree/hypothyroid-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/decision-tree/lymph-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf
+time limit:60s
+32	26.65
+time limit:300s
+27	129.49
+../MS21/mse21_incomplete_unwt/decision-tree/primary-tumor-un/formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf
+time limit:60s
+59	44.58
+time limit:300s
+59	44.58
+../MS21/mse21_incomplete_unwt/decision-tree/primary-tumor-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf
+time limit:60s
+62	7.81
+time limit:300s
+61	158.73
+../MS21/mse21_incomplete_unwt/decision-tree/soybean-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf
+time limit:60s
+85	55.4
+time limit:300s
+85	55.4
+../MS21/mse21_incomplete_unwt/decision-tree/soybean-un/formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf
+time limit:60s
+85	25.96
+time limit:300s
+85	25.96
+../MS21/mse21_incomplete_unwt/decision-tree/soybean-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf
+time limit:60s
+79	35.69
+time limit:300s
+79	35.69
+../MS21/mse21_incomplete_unwt/decision-tree/splice-1-un/formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/decision-tree/splice-1-un/formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/decision-tree/tic-tac-toe-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+230	63.19
+../MS21/mse21_incomplete_unwt/decision-tree/tic-tac-toe-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf
+time limit:60s
+230	30.59
+time limit:300s
+230	30.59
+../MS21/mse21_incomplete_unwt/decision-tree/tic-tac-toe-un/formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf
+time limit:60s
+230	38.3
+time limit:300s
+230	38.3
+../MS21/mse21_incomplete_unwt/decision-tree/vote-un/formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf
+time limit:60s
+11	2.03
+time limit:300s
+11	2.03
+../MS21/mse21_incomplete_unwt/decision-tree/vote-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf
+time limit:60s
+11	2.73
+time limit:300s
+11	2.73
+../MS21/mse21_incomplete_unwt/decision-tree/vote-un/formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf
+time limit:60s
+11	3.27
+time limit:300s
+11	3.27
+../MS21/mse21_incomplete_unwt/exploits-synthesis_changjian_zhang/meltdown_min.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/exploits-synthesis_changjian_zhang/spectre_min.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_0.wcnf
+time limit:60s
+8	51.26
+time limit:300s
+7	170.23
+../MS21/mse21_incomplete_unwt/extension-enforcement/extension-enforcement_non-strict_stb_200_0.1_4_10_2.wcnf
+time limit:60s
+9	25.76
+time limit:300s
+9	25.76
+../MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_aim-50-3_4-yes1-3.wcnf
+time limit:60s
+15	7.31
+time limit:300s
+14	226.87
+../MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_atv_partial_system.wcnf
+time limit:60s
+12	12.74
+time limit:300s
+12	12.74
+../MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_clique_15.wcnf
+time limit:60s
+11	7.61
+time limit:300s
+11	7.61
+../MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_flat30-50.wcnf
+time limit:60s
+22	20.4
+time limit:300s
+20	283.85
+../MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_hole6.wcnf
+time limit:60s
+7	1.65
+time limit:300s
+7	1.65
+../MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_par8-3-c.wcnf
+time limit:60s
+12	13.44
+time limit:300s
+12	13.44
+../MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_pret60_25.wcnf
+time limit:60s
+7	6.39
+time limit:300s
+7	6.39
+../MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_uf20-099.wcnf
+time limit:60s
+6	0.45
+time limit:300s
+6	0.45
+../MS21/mse21_incomplete_unwt/hs-timetabling/GreeceWesternGreeceUniversityInstance4.xml.wcnf
+time limit:60s
+143	25.02
+time limit:300s
+143	25.02
+../MS21/mse21_incomplete_unwt/large-graph-commmunity-detection_jabbour/AMAZON.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/large-graph-commmunity-detection_jabbour/DBLP.wcnf
+time limit:60s
+80565	2.24
+time limit:300s
+80565	2.24
+../MS21/mse21_incomplete_unwt/large-graph-commmunity-detection_jabbour/YOUTUBE.wcnf
+time limit:60s
+110556	10.54
+time limit:300s
+110556	10.54
+../MS21/mse21_incomplete_unwt/logic-synthesis/normalized-test4.pi.opb.msat.wcnf
+time limit:60s
+117	0.29
+time limit:300s
+115	150.76
+../MS21/mse21_incomplete_unwt/maxclique/structured/hamming10-4.clq.wcnf
+time limit:60s
+984	0.1
+time limit:300s
+984	0.1
+../MS21/mse21_incomplete_unwt/maxclique/structured/p_hat1000-2.clq.wcnf
+time limit:60s
+954	0.38
+time limit:300s
+954	0.38
+../MS21/mse21_incomplete_unwt/maxclique/structured/p_hat700-2.clq.wcnf
+time limit:60s
+656	0.1
+time limit:300s
+656	0.1
+../MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-12.wcnf
+time limit:60s
+175	0.06
+time limit:300s
+175	0.06
+../MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-20.wcnf
+time limit:60s
+175	2.19
+time limit:300s
+175	2.19
+../MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-28.wcnf
+time limit:60s
+176	2.23
+time limit:300s
+176	2.23
+../MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-4.wcnf
+time limit:60s
+171	0.14
+time limit:300s
+171	0.14
+../MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-45.wcnf
+time limit:60s
+177	1.21
+time limit:300s
+177	1.21
+../MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-6.wcnf
+time limit:60s
+164	0.01
+time limit:300s
+164	0.01
+../MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.8-1.wcnf
+time limit:60s
+170	1.01
+time limit:300s
+170	1.01
+../MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.8-18.wcnf
+time limit:60s
+174	2.3
+time limit:300s
+174	2.3
+../MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.8-26.wcnf
+time limit:60s
+177	3.04
+time limit:300s
+177	3.04
+../MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.8-39.wcnf
+time limit:60s
+179	1.79
+time limit:300s
+179	1.79
+../MS21/mse21_incomplete_unwt/maxcut/dimacs_mod/brock200_3.clq.wcnf
+time limit:60s
+224	30.11
+time limit:300s
+221	259.25
+../MS21/mse21_incomplete_unwt/min-fill/MinFill_R0_miles1500.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+1860	91.98
+../MS21/mse21_incomplete_unwt/min-fill/MinFill_R0_myciel6.wcnf
+time limit:60s
+836	29.55
+time limit:300s
+819	156.24
+../MS21/mse21_incomplete_unwt/min-fill/MinFill_R0_queen5_5.wcnf
+time limit:60s
+93	0.59
+time limit:300s
+93	0.59
+../MS21/mse21_incomplete_unwt/min-fill/MinFill_R0_queen8_8.wcnf
+time limit:60s
+1075	24.73
+time limit:300s
+1075	24.73
+../MS21/mse21_incomplete_unwt/min-fill/MinFill_R0_queen9_9.wcnf
+time limit:60s
+1683	11.98
+time limit:300s
+1657	164.26
+../MS21/mse21_incomplete_unwt/min-fill/MinFill_R1_games120.wcnf
+time limit:60s
+1921	44.95
+time limit:300s
+1921	44.95
+../MS21/mse21_incomplete_unwt/min-fill/MinFill_R3_miles750.wcnf
+time limit:60s
+1887	56.31
+time limit:300s
+1887	56.31
+../MS21/mse21_incomplete_unwt/optic/gen_add_6_991.wcnf
+time limit:60s
+107	39.33
+time limit:300s
+107	39.33
+../MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_160_20_20-0.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_200_10_40-0.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_200_12_20-3.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_200_16_20-0.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_200_20_20-6.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_200_22_20-2.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_260_20_20-0.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_260_20_20-1.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/planning-bnn/cellda_x_12.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/planning-bnn/cellda_y_10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/planning-bnn/navigation_5x5_10.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/planning-bnn/navigation_5x5_8.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/planning-bnn/navigation_5x5_9.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/planning-bnn/sysadmin_4_4.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/planning-bnn/sysadmin_5_3.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/planning-bnn/sysadmin_5_4.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/program_disambiguation-Ramos/Q34_OPTIONS_1.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/MultiDay_1.wcnf
+time limit:60s
+81519	0.82
+time limit:300s
+77980	253.42
+../MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/MultiDay_3.wcnf
+time limit:60s
+163185	2.92
+time limit:300s
+161672	157.15
+../MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/MultiDay_4.wcnf
+time limit:60s
+196301	4.25
+time limit:300s
+194209	196.67
+../MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/SingleDay_15.wcnf
+time limit:60s
+25510	44.33
+time limit:300s
+25492	230.19
+../MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/SingleDay_3.wcnf
+time limit:60s
+9454	52.05
+time limit:300s
+9453	195.9
+../MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/Subnetwork_7.wcnf
+time limit:60s
+6397	35.1
+time limit:300s
+6394	132.39
+../MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/Subnetwork_9.wcnf
+time limit:60s
+7907	5.04
+time limit:300s
+7906	134.82
+../MS21/mse21_incomplete_unwt/railroad_reisch/weighted/MultiDay_1_weighted.wcnf
+time limit:60s
+81519	0.82
+time limit:300s
+77980	254.12
+../MS21/mse21_incomplete_unwt/railway-transport/d4.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+2212	237.15
+../MS21/mse21_incomplete_unwt/railway-transport/pesp_18Min.wcnf
+time limit:60s
+393	53.55
+time limit:300s
+321	272.6
+../MS21/mse21_incomplete_unwt/railway-transport/pesp_5min.wcnf
+time limit:60s
+79	53.83
+time limit:300s
+72	85.39
+../MS21/mse21_incomplete_unwt/railway-transport/we.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/ramsey/ram_k3_n10.ra0.wcnf
+time limit:60s
+4	0
+time limit:300s
+4	0
+../MS21/mse21_incomplete_unwt/ramsey/ram_k3_n11.ra0.wcnf
+time limit:60s
+7	0.01
+time limit:300s
+7	0.01
+../MS21/mse21_incomplete_unwt/ramsey/ram_k3_n12.ra0.wcnf
+time limit:60s
+10	0
+time limit:300s
+10	0
+../MS21/mse21_incomplete_unwt/ramsey/ram_k3_n13.ra0.wcnf
+time limit:60s
+16	0
+time limit:300s
+16	0
+../MS21/mse21_incomplete_unwt/ramsey/ram_k3_n14.ra0.wcnf
+time limit:60s
+21	0
+time limit:300s
+21	0
+../MS21/mse21_incomplete_unwt/ramsey/ram_k3_n15.ra0.wcnf
+time limit:60s
+30	0
+time limit:300s
+30	0
+../MS21/mse21_incomplete_unwt/ramsey/ram_k3_n18.ra0.wcnf
+time limit:60s
+60	0.01
+time limit:300s
+60	0.01
+../MS21/mse21_incomplete_unwt/ramsey/ram_k3_n19.ra0.wcnf
+time limit:60s
+75	0.01
+time limit:300s
+75	0.01
+../MS21/mse21_incomplete_unwt/ramsey/ram_k4_n18.ra0.wcnf
+time limit:60s
+9	0.01
+time limit:300s
+9	0.01
+../MS21/mse21_incomplete_unwt/ramsey/ram_k4_n19.ra0.wcnf
+time limit:60s
+15	0.01
+time limit:300s
+15	0.01
+../MS21/mse21_incomplete_unwt/ramsey/ram_k4_n20.ra0.wcnf
+time limit:60s
+24	0
+time limit:300s
+24	0
+../MS21/mse21_incomplete_unwt/reversi/rev66-16.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/reversi/rev66-18.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/reversi/rev66-20.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/reversi/rev66-22.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/reversi/rev66-24.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/reversi/rev66-28.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/reversi/rev66-32.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/scheduling/cnf_10.wcnf
+time limit:60s
+134	45.28
+time limit:300s
+132	114.68
+../MS21/mse21_incomplete_unwt/scheduling/cnf_12.wcnf
+time limit:60s
+129	25.69
+time limit:300s
+107	252.7
+../MS21/mse21_incomplete_unwt/scheduling/cnf_small.wcnf
+time limit:60s
+51	11.96
+time limit:300s
+50	286.26
+../MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam100-n100-p13-frag3/20-100-lambda100-48.wcnf
+time limit:60s
+77	21.02
+time limit:300s
+76	240.2
+../MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam100-n100-p13-frag3/20-100-lambda100-96.wcnf
+time limit:60s
+78	7.29
+time limit:300s
+78	7.29
+../MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p100-frag3/20-100-p100-49.wcnf
+time limit:60s
+82	12.57
+time limit:300s
+82	12.57
+../MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p100-frag3/20-100-p100-54.wcnf
+time limit:60s
+80	31.98
+time limit:300s
+79	205.48
+../MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p13-frag12/20-100-frag12-13.wcnf
+time limit:60s
+48	55.16
+time limit:300s
+46	97.45
+../MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p13-frag12/20-100-frag12-85.wcnf
+time limit:60s
+49	17.33
+time limit:300s
+48	195.48
+../MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p13-frag12/20-100-frag12-91.wcnf
+time limit:60s
+50	7.44
+time limit:300s
+49	193.25
+../MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p13-frag12/20-100-frag12-97.wcnf
+time limit:60s
+49	23.74
+time limit:300s
+49	23.74
+../MS21/mse21_incomplete_unwt/set-covering/crafted/scpclr/scpclr11_maxsat.wcnf
+time limit:60s
+24	0.67
+time limit:300s
+23	118.11
+../MS21/mse21_incomplete_unwt/set-covering/crafted/scpclr/scpclr12_maxsat.wcnf
+time limit:60s
+26	2.74
+time limit:300s
+26	2.74
+../MS21/mse21_incomplete_unwt/set-covering/crafted/scpclr/scpclr13_maxsat.wcnf
+time limit:60s
+29	46.49
+time limit:300s
+29	46.49
+../MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc06_maxsat.wcnf
+time limit:60s
+62	0.4
+time limit:300s
+62	0.4
+../MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc07_maxsat.wcnf
+time limit:60s
+158	0.91
+time limit:300s
+158	0.91
+../MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc08_maxsat.wcnf
+time limit:60s
+390	3.46
+time limit:300s
+387	72.96
+../MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc09_maxsat.wcnf
+time limit:60s
+841	55.46
+time limit:300s
+825	204.44
+../MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc10_maxsat.wcnf
+time limit:60s
+1939	0.2
+time limit:300s
+1926	116.95
+../MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc11_maxsat.wcnf
+time limit:60s
+4345	22.65
+time limit:300s
+4345	22.65
+../MS21/mse21_incomplete_unwt/setcover-rail_zhendong/unweighted-setcover-sts/data.135.wcnf
+time limit:60s
+103	27.93
+time limit:300s
+103	27.93
+../MS21/mse21_incomplete_unwt/setcover-rail_zhendong/unweighted-setcover-sts/data.243.wcnf
+time limit:60s
+198	0.03
+time limit:300s
+198	0.03
+../MS21/mse21_incomplete_unwt/setcover-rail_zhendong/unweighted-setcover-sts/data.405.wcnf
+time limit:60s
+341	1.99
+time limit:300s
+341	1.99
+../MS21/mse21_incomplete_unwt/setcover-rail_zhendong/unweighted-setcover-sts/data.729.wcnf
+time limit:60s
+644	50.07
+time limit:300s
+639	130.41
+../MS21/mse21_incomplete_unwt/treewidth-computation/TWComp_1c75_N69.wcnf
+time limit:60s
+32	56.71
+time limit:300s
+32	56.71
+../MS21/mse21_incomplete_unwt/treewidth-computation/TWComp_myciel5_N47.wcnf
+time limit:60s
+19	23.38
+time limit:300s
+19	23.38
+../MS21/mse21_incomplete_unwt/treewidth-computation/TWComp_queen5_5_N25.wcnf
+time limit:60s
+18	0.14
+time limit:300s
+18	0.14
+../MS21/mse21_incomplete_unwt/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr13-plb100.wcnf
+time limit:60s
+76	8.4
+time limit:300s
+76	8.4
+../MS21/mse21_incomplete_unwt/uaq_gazzarata/min/uaq-min-nr-nr50-np400-rpp5-nc0-rs0-t0-plb100-n9.wcnf
+time limit:60s
+238	42.46
+time limit:300s
+234	164.63
+../MS21/mse21_incomplete_unwt/xai-mindset2/haberman.wcnf
+time limit:60s
+-1	-1
+time limit:300s
+-1	-1
+../MS21/mse21_incomplete_unwt/xai-mindset2/heart-c.wcnf
+time limit:60s
+275	38.49
+time limit:300s
+275	38.49
