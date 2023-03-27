@@ -1,3 +1,3 @@
-# HFCRP-C
+# HRP-C
 
-together with SATLG and HFCRP-F
+combine SATLG with HFCRP-F
