@@ -1,0 +1,889 @@
+MS18/mse18-incomplete-unweighted-benchmarks/aes-key-recovery-AES1-76-36.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/aes-mul_8_11.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/aes-mul_8_13.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/aes-mul_8_14.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/aes-mul_8_9.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/aes-sbox_8.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_02.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_03.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_04.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_05.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_10.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_15.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/atcoss-mesat-atcoss_mesat_18.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-f1000.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-f2000.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-f600.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-g125.17.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-g125.18.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-g250.15.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-g250.29.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-ii16a1.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-ii16a2.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-ii16c1.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-ii16d1.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-par32-1-c.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-msp-normalized-par32-1.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-syn-normalized-ex1010.pi.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/bcp-syn-normalized-test4.pi.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/close-solutions-SAT11__application__fuhs__AProVE11__AProVE11-10.cnf.wcnf.3.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/des-cnf.18.p.10.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/des-cnf.20.p.9.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_150_0.05_1_8_3.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_150_0.1_2_8_2.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_1_10_1.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_1_10_2.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_3_10_0.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_3_10_1.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_4_10_0.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_4_10_1.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_4_10_2.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_4_10_3.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.05_4_10_4.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.1_2_10_1.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/extension-enforcement-extension-enforcement_non-strict_stb_200_0.1_4_10_4.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/fault-diagnosis-s38584_nan_explicit_14_0.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/fault-diagnosis-s38584_nan_explicit_5_0.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/fault-diagnosis-s38584_nan_explicit_8_0.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_2bitcomp_5.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_aim-50-1_6-yes1-3.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_aim-50-2_0-no-3.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_aim-50-2_0-yes1-3.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois21.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois23.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois24.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois25.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois27.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois29.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_dubois30.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_flat30-1.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_flat30-99.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_hole6.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_hole8.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_par8-1-c.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_par8-2-c.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_par8-3-c.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_par8-4-c.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_par8-5-c.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_pret60_60.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_s208.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/gen-hyper-tw-GenHyperTW_uf20-050.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/hs-timetabling-GreeceWesternGreeceUniversityInstance4.xml.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/maxclique-brock800_2.clq.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/maxclique-p_hat1000-1.clq.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/maxclique-p_hat1000-2.clq.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/maxcut-MANN_a9.clq.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/maxcut-brock200_1.clq.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/maxcut-brock400_2.clq.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/maxcut-brock400_4.clq.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/maxcut-hamming6-4.clq.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/maxcut-p_hat500-3.clq.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/maxcut-t6pm3-8888.spn.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R0_myciel6.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R0_queen11_11.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R0_queen6_6.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R0_queen8_12.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R0_queen8_8.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R1_games120.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R3_miles1000.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/min-fill-MinFill_R3_miles750.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_add_6_carry_991.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_3_6_9999.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_5_33.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_5_399.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_5_991.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_5_9999.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_6_991.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_6_9999.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_4_7_991.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_mult_5_5_991.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/optic-gen_square_5_9999.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-12.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-14.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-16.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-18.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-22.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/reversi-rev66-26.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/scheduling-cnf_10.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/scheduling-cnf_12.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/scheduling-cnf_small.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/sean-safarpour-SM_MAIN_MEM_buggy1.dimacs.filtered.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/sean-safarpour-rsdecoder-problem.dimacs_41.filtered.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/sean-safarpour-wb_4m8s-problem.dimacs_49.filtered.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/sean-safarpour-wb_4m8s4.dimacs.filtered.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpclr11_maxsat.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpclr12_maxsat.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpclr13_maxsat.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc06_maxsat.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc07_maxsat.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc08_maxsat.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc09_maxsat.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc10_maxsat.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/set-covering-scpcyc11_maxsat.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/treewidth-computation-TWComp_1c75_N69.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/treewidth-computation-TWComp_1dp_N76.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/treewidth-computation-TWComp_eil51.tsp_N51.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/treewidth-computation-TWComp_queen5_5_N25.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/treewidth-computation-TWComp_queen6_6_N36.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr14-plb100.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr6-plb100.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr7-plb100.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr8-plb100.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr11-plb100.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr13-plb100.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr14-plb100.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr6-plb100.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/uaq-uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr9-plb100.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-australian.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-bnn-last-layer-f10.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-bupa.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-cleve.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-cleveland-nominal.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-cleveland.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-colic.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-diabetes.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-ecoli.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-haberman.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-heart-h.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-heart-statlog.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-hungarian.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-liver-disorder.wcnf	|	now win
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-postoperative-patient-data.wcnf	|	origin win
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-shuttleM.wcnf	|	equal
+MS18/mse18-incomplete-unweighted-benchmarks/xai-mindset-soybean.wcnf	|	equal
+
+MS18
+unweighted statistic info:
+#origin_alg         #now_alg            #equal              #origin_solved      #now_solved         origin_ave_time     now_ave_time        origin_score        now_score           
+36                  38                  79                  105                 121                 249.446             189.9807            0.6784              0.7776
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/credit_train_0_DNF_3_1.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/credit_train_1_CNF_4_1.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/tictactoe_train_0_CNF_2_1.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/tictactoe_train_1_DNF_5_1.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/toms_test_0_DNF_2_1.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/toms_train_1_DNF_2_1.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/wdbc_train_0_DNF_5_1.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/adult_train_4_CNF_3_1.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/adult_train_5_CNF_3_1.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/compas_train_1_DNF_5_1.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/credit_train_1_CNF_5_1.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/heart_train_4_CNF_3_1.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/ionosphere_train_2_DNF_3_1.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/parkinsons_train_8_DNF_3_1.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaxSATQueriesinInterpretableClassifiers/wcnf_gz/tictactoe_train_3_CNF_2_1.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g10_n13e12_n13e12_n14e13_n14e13_n14e13_n14e13_n14e13_n15e13_n15e14_n15e14.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g2_n35e34_n70e73.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g2_n38e52_n41e47.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g2_n44e43_n57e61.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g2_n44e59_n74e84.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g2_n68e88_n77e106.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g3_n43e49_n45e51_n47e60.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g3_n43e49_n72e77_n81e85.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g3_n52e77_n57e74_n58e75.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g4_n24e34_n47e56_n92e122_n98e129.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g4_n58e71_n61e85_n100e127_n104e131.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g5_n24e23_n28e29_n32e33_n32e33_n38e39.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g6_n14e13_n14e21_n14e13_n14e13_n14e20_n18e28.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g6_n39e38_n43e43_n61e61_n67e69_n67e68_n82e119.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/MaximumCommonSub-GraphExtraction/solved/g8_n39e38_n43e43_n58e57_n67e69_n67e68_n67e69_n67e68_n82e119.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/SM_AS_TOP_buggy1.dimacs.filtered.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/SM_MAIN_MEM_buggy1.dimacs.filtered.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/mem_ctrl-problem.dimacs_27.filtered.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/rsdecoder-problem.dimacs_38.filtered.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/rsdecoder-problem.dimacs_41.filtered.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/rsdecoder1_blackbox_KESblock-problem.dimacs_30.filtered.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/rsdecoder4.dimacs.filtered.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/rsdecoder6.dimacs.filtered.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/spi2.dimacs.filtered.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/wb_4m8s-problem.dimacs_47.filtered.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/wb_4m8s-problem.dimacs_49.filtered.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/wb_4m8s1.dimacs.filtered.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/SeanSafarpour/wb_4m8s4.dimacs.filtered.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/aes/mul_8_11.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/aes/mul_8_13.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/aes/mul_8_14.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/aes/mul_8_9.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/aes/sbox_8.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/aes-key-recovery/AES1-74-32.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/aes-key-recovery/AES1-76-36.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/aes-key-recovery/AES1-76-38.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/aes-key-recovery/AES2-70-62.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/aes-key-recovery/AES2-72-67.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_02.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_03.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_04.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_05.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_10.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_15.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/mesat/atcoss_mesat_18.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_02.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_03.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_04.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_05.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_10.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_15.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/atcoss/sugar/atcoss_sugar_18.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/bcp/fir/normalized-fir08_area_opers.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/bcp/hipp-yRa1/simp/simp-ibd_50.08.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/bcp/hipp-yRa1/su/SU-100kb__simp-genos.haps.21.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/bcp/hipp-yRa1/su/SU3__simp-genos.haps.80.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/bcp/msp/normalized-ii16a2.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/bcp/msp/normalized-par32-4-c.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/bcp/msp/normalized-par32-5.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/bcp/syn/normalized-C499.b.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/causal-discovery/causal_n7_i4_N1000_uai14_constant_int.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/causal-discovery/causal_n7_i4_N500_uai14_constant_int.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/causal-discovery/causal_n7_i6_N500_uai14_harddeps_int.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug4_q0.used-as.sat04-723.cnf.wcnf.1.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug4_q0.used-as.sat04-723.cnf.wcnf.8.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug6_q0.used-as.sat04-725.cnf.wcnf.10.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug6_q0.used-as.sat04-725.cnf.wcnf.3.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug6_q0.used-as.sat04-725.cnf.wcnf.7.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.2.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.3.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.4.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-10.cnf.wcnf.3.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__jarvisalo__smtqfbv-aigs__smtlib-qfbv-aigs-bin_libsmbsharemodes_vc5759-tseitin.cnf.wcnf.9.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__manthey__traffic__traffic_3_uc_sat.cnf.wcnf.8.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__manthey__traffic__traffic_3_uc_sat.cnf.wcnf.9.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__manthey__traffic__traffic_r_sat.cnf.wcnf.4.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/close_solutions/SAT11__application__rintanen__SATPlanning__blocks-blocks-36-0.170-NOTKNOWN.cnf.wcnf.6.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.14.p.10.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.16.p.8.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.17.p.10.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.17.p.9.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.18.p.6.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.19.p.10.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.19.p.7.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.19.p.9.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.20.p.10.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.20.p.4.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.20.p.8.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/des/cnf.20.p.9.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_150_0.05_2_8_3.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_150_0.05_2_8_4.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_150_0.1_2_8_2.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_1.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_2.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_2_10_2.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_3_10_0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_3_10_1.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_3_10_4.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_1.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_2.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_3.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_4.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/extension-enforcement/extension-enforcement_non-strict_stb_200_0.1_2_10_1.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_10_0.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_14_0.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_2_0.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_5_0.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_6_0.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_7_0.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_8_0.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/fault-diagnosis/s38584_nan_explicit_9_0.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_2bitcomp_5.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_aim-50-1_6-no-3.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_aim-50-2_0-no-3.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_b01.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_dubois20.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_dubois23.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_dubois24.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_dubois28.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_dubois30.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_flat30-1.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_flat30-99.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_grid3d_5.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_grid4d_3.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_par8-2-c.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_par8-4-c.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_par8-5-c.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_uf20-01.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/gen-hyper-tw/GenHyperTW_uf20-050.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/hs-timetabling/GreeceWesternGreeceUniversityInstance4.xml.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/logic-synthesis/normalized-test4.pi.opb.msat.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/MANN_a45.clq.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/MANN_a81.clq.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock200_1.clq.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock400_2.clq.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock400_3.clq.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock800_1.clq.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock800_3.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/brock800_4.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/hamming10-4.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/p_hat1000-1.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/p_hat1000-3.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/p_hat500-2.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/p_hat700-1.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/p_hat700-3.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/sanr200_0.9.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/sanr400_0.5.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxclique/structured/sanr400_0.7.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/bipartite/maxcut-140-630-0.7-31.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/bipartite/maxcut-140-630-0.8-17.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/bipartite/maxcut-140-630-0.8-7.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/MANN_a27.clq.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/brock200_1.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/brock400_2.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/brock800_1.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/hamming10-2.clq.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/keller5.clq.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/p_hat300-3.clq.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/san200_0.7_1.clq.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/maxcut/dimacs_mod/san400_0.7_2.clq.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/mbd/b14_C-mbd14-0277.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/mbd/b14_C-mbd14-0310.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/mbd/b14_C-mbd14-0337.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/mbd/b14_C-mbd14-0388.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/mbd/b21_C-mbd14-0218.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/mbd/b21_C-mbd14-0322.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_miles1500.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_mulsol.i.2.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_mulsol.i.5.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_myciel6.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_myciel7.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen11_11.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen6_6.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen7_7.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen8_12.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen8_8.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R0_queen9_9.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R1_games120.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R3_miles1000.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R3_miles750.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/min-fill/MinFill_R4_miles500.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_add_4_carry_33.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_add_6_carry_991.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_cvc-add7to3_9999.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_3_5_9999.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_3_6_9999.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_5_33.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_5_399.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_5_991.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_5_9999.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_6_991.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_6_9999.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_4_7_991.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_5_5_399.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_5_5_991.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_mult_5_5_9999.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/optic/gen_square_5_9999.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/garden/normalized-g100x100.opb.msat.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/primes-dimacs-cnf/normalized-par32-1.opb.msat.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/primes-dimacs-cnf/normalized-par32-2.opb.msat.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/primes-dimacs-cnf/normalized-par32-3.opb.msat.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/primes-dimacs-cnf/normalized-par32-4.opb.msat.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/pseudoBoolean/primes-dimacs-cnf/normalized-par32-5.opb.msat.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/railway-transport/d4.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/railway-transport/pesp_18Min.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/railway-transport/pesp_5min.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/railway-transport/we.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n10.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n11.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n12.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n13.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n14.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n15.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n16.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n17.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n18.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n19.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k3_n20.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k4_n18.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k4_n19.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/ramsey/ram_k4_n20.ra0.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-12.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-14.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-16.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-18.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-20.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-22.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-24.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-26.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-28.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-30.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/reversi/rev66-32.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/scheduling/cnf_10.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/scheduling/cnf_10_center.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/scheduling/cnf_12.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/scheduling/cnf_12_center.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/scheduling/cnf_small.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpclr/scpclr11_maxsat.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpclr/scpclr12_maxsat.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpclr/scpclr13_maxsat.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc06_maxsat.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc07_maxsat.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc08_maxsat.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc09_maxsat.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc10_maxsat.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/set-covering/crafted/scpcyc/scpcyc11_maxsat.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_1c75_N69.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_1dj7_N73.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_1dp_N76.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_eil51.tsp_N51.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_myciel5_N47.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_queen5_5_N25.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_queen6_6_N36.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/treewidth-computation/TWComp_queen7_7_N49.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-plb-nr250-nc83-n5-k2-rpp3-ppr5-plb90.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr12-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr14-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr7-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr9-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr10-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr11-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr12-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr13-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr14-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr5-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr6-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr7-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr8-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr9-plb100.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/australian.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/bupa.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/cleveland-nominal.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/cleveland.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/colic.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/diabetes.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/ecoli.wcnf	|	equal
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/heart-h.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/heart-statlog.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/hepatitis.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/hungarian.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/liver-disorder.wcnf	|	now win
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/postoperative-patient-data.wcnf	|	origin win
+MS19/mse19-incomplete-unweighted-benchmarks/xai-mindset2/shuttleM.wcnf	|	equal
+
+MS19
+unweighted statistic info:
+#origin_alg         #now_alg            #equal              #origin_solved      #now_solved         origin_ave_time     now_ave_time        origin_score        now_score           
+53                  80                  166                 214                 244                 218.2962            176.8246            0.7023              0.8064
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/adult_train_3_CNF_5_1.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/compas_train_4_DNF_4_1.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/compas_train_4_DNF_5_1.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/credit_test_0_CNF_4_1.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/credit_train_0_CNF_2_1.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/credit_train_1_CNF_3_1.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/credit_train_4_CNF_5_1.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/credit_train_6_DNF_3_1.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/heart_train_0_CNF_5_1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/heart_train_1_DNF_3_1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/heart_train_4_CNF_5_1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/ionosphere_train_1_CNF_3_1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/ionosphere_train_1_CNF_4_1.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/tictactoe_train_6_CNF_4_1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/toms_test_1_DNF_2_1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/toms_train_1_CNF_2_1.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/toms_train_4_DNF_5_1.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/twitter_test_1_CNF_2_1.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/MaxSATQueriesinInterpretableClassifiers/wdbc_train_7_DNF_5_1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g10_n13e12_n13e12_n14e13_n14e13_n14e13_n14e13_n14e13_n15e13_n15e14_n15e14.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n13e12_n46e57.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n35e34_n58e61.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n42e55_n44e53.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n57e60_n61e85.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n61e68_n73e75.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n63e71_n74e99.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g2_n67e83_n68e73.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g3_n46e48_n58e61_n75e81.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g4_n47e58_n55e66_n61e85_n67e83.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/MaximumCommonSub-GraphExtraction/g4_n56e84_n61e85_n62e78_n63e71.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/SeanSafarpour/SM_AS_TOP_buggy1.dimacs.filtered.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/SeanSafarpour/SM_MAIN_MEM_buggy1.dimacs.filtered.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/SeanSafarpour/rsdecoder-problem.dimacs_38.filtered.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/SeanSafarpour/rsdecoder-problem.dimacs_41.filtered.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/SeanSafarpour/rsdecoder1_blackbox_KESblock-problem.dimacs_30.filtered.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/SeanSafarpour/rsdecoder4.dimacs.filtered.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/SeanSafarpour/rsdecoder6.dimacs.filtered.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/SeanSafarpour/wb_4m8s-problem.dimacs_47.filtered.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/SeanSafarpour/wb_4m8s-problem.dimacs_49.filtered.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/SeanSafarpour/wb_4m8s4.dimacs.filtered.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/aes/mul_8_11.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/aes/mul_8_13.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/aes/mul_8_14.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/aes/mul_8_9.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/aes/sbox_8.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/aes-key-recovery/AES1-76-36.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/aes-key-recovery/AES1-76-38.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/aes-key-recovery/AES2-72-67.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_02.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_03.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_04.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_05.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_10.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_15.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_mesat_18.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_02.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_03.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_04.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_05.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_10.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_15.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/atcoss/atcoss_sugar_18.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/bcp/SU-100kb__simp-genos.haps.1.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/bcp/SU-100kb__simp-genos.haps.12.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/bcp/SU-100kb__simp-genos.haps.21.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/bcp/SU-100kb__simp-genos.haps.22.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/bcp/SU-100kb__simp-genos.haps.3.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/bcp/SU3__simp-genos.haps.63.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/bcp/SU3__simp-genos.haps.80.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/bcp/SU3__simp-genos.haps.9.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/bcp/normalized-ex1010.pi.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/bcp/normalized-fir08_area_opers.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/bcp/normalized-g125.18.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/bcp/normalized-par32-1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/bcp/normalized-par32-3-c.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/bcp/normalized-test4.pi.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.2.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-09.cnf.wcnf.3.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/close_solutions/SAT11__application__fuhs__AProVE11__AProVE11-10.cnf.wcnf.3.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/close_solutions/SAT11__application__rintanen__SATPlanning__blocks-blocks-36-0.170-NOTKNOWN.cnf.wcnf.6.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/des/cnf.19.p.10.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/des/cnf.20.p.10.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/des/cnf.20.p.8.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/exploits-synthesis/meltdown_min.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/exploits-synthesis/spectre_min.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_150_0.05_2_8_4.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_150_0.1_2_8_2.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_1.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_2.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_2_10_2.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_3_10_0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_3_10_1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_1.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_2.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_3.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.1_2_10_1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/fault-diagnosis/s38584_nan_explicit_2_0.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/fault-diagnosis/s38584_nan_explicit_7_0.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/fault-diagnosis/s38584_nan_explicit_8_0.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/fault-diagnosis/s38584_nan_explicit_9_0.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_aim-50-2_0-yes1-3.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_atv_partial_system.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_dubois24.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_flat30-50.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_grid4d_3.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_hole6.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_hole9.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/gen-hyper-tw/GenHyperTW_par8-5-c.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/hs-timetabling/GreeceWesternGreeceUniversityInstance4.xml.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/large-graph-commmunity/AMAZON.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/large-graph-commmunity/DBLP.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/large-graph-commmunity/YOUTUBE.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/logic-synthesis/normalized-test4.pi.opb.msat.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/maxclique/MANN_a81.clq.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/maxclique/brock400_1.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxclique/brock400_4.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxclique/brock800_2.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxclique/p_hat1000-1.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxclique/p_hat1000-3.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxclique/p_hat300-3.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxclique/p_hat500-3.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxclique/p_hat700-1.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxclique/p_hat700-3.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxclique/sanr400_0.7.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxcut/MANN_a27.clq.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/maxcut/MANN_a45.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxcut/MANN_a81.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxcut/MANN_a9.clq.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/maxcut/c-fat500-10.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxcut/hamming10-2.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxcut/hamming6-2.clq.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/maxcut/hamming8-2.clq.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/maxcut/johnson8-4-4.clq.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/mbd/b14_C-mbd14-0277.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/mbd/b14_C-mbd14-0337.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/mbd/b14_C-mbd14-0388.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/mbd/b21_C-mbd14-0218.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/mbd/b21_C-mbd14-0322.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_myciel6.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_myciel7.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen11_11.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen6_6.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen7_7.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen8_12.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen8_8.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R0_queen9_9.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R1_games120.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R3_miles1000.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R3_miles750.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/min-fill/MinFill_R4_miles500.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/optic/gen_add_4_carry_33.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/optic/gen_cvc-add7to3_9999.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/optic/gen_mult_3_5_9999.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/optic/gen_mult_3_6_9999.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/optic/gen_mult_4_5_33.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/optic/gen_mult_4_5_399.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/optic/gen_mult_4_5_991.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/optic/gen_mult_4_5_9999.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/optic/gen_mult_4_6_991.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/optic/gen_mult_4_6_9999.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/optic/gen_mult_4_7_991.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/optic/gen_mult_5_5_399.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/optic/gen_mult_5_5_991.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/optic/gen_mult_5_5_9999.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/optic/gen_square_5_9999.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/phylogenetic-trees/ms_120_20_20-0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/phylogenetic-trees/ms_200_12_20-2.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/phylogenetic-trees/ms_200_20_20-9.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/phylogenetic-trees/ms_260_20_20-0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/phylogenetic-trees/ms_260_20_20-1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/program_disambiguation/Q13_OPTIONS_1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/program_disambiguation/Q22_OPTIONS_1.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-g100x100.opb.msat.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-par32-1.opb.msat.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-par32-2.opb.msat.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-par32-3.opb.msat.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-par32-4.opb.msat.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/pseudoBoolean/normalized-par32-5.opb.msat.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/railroad_scheduling/MultiDay_1.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/railroad_scheduling/MultiDay_3.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/railroad_scheduling/MultiDay_4.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/railroad_scheduling/SingleDay_37.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/railway-transport/d4.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/railway-transport/pesp_18Min.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/railway-transport/pesp_5min.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/railway-transport/we.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n12.ra0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n13.ra0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n14.ra0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n16.ra0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n17.ra0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n18.ra0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n19.ra0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/ramsey/ram_k3_n20.ra0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/ramsey/ram_k4_n18.ra0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/ramsey/ram_k4_n19.ra0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/ramsey/ram_k4_n20.ra0.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/reversi/rev66-12.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/reversi/rev66-14.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/reversi/rev66-16.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/reversi/rev66-18.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/reversi/rev66-20.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/reversi/rev66-22.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/reversi/rev66-24.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/reversi/rev66-26.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/reversi/rev66-28.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/reversi/rev66-30.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/reversi/rev66-32.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/scheduling/cnf_10.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/scheduling/cnf_12.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/scheduling/cnf_small.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/set-covering/scpclr11_maxsat.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/set-covering/scpclr12_maxsat.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/set-covering/scpclr13_maxsat.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/set-covering/scpcyc06_maxsat.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/set-covering/scpcyc07_maxsat.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/set-covering/scpcyc08_maxsat.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/set-covering/scpcyc09_maxsat.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/set-covering/scpcyc10_maxsat.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/set-covering/scpcyc11_maxsat.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_1c75_N69.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_1dj7_N73.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_1dp_N76.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_mulsol.i.5-pp_N119.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_myciel5_N47.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_queen5_5_N25.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_queen6_6_N36.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/treewidth-computation/TWComp_queen7_7_N49.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr10-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr11-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr12-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr13-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr14-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr6-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr8-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr9-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr10-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr11-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr12-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr13-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr14-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr5-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr6-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr7-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr8-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr9-plb100.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/xai-mindset2/australian.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/xai-mindset2/bupa.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/xai-mindset2/cleve.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/xai-mindset2/colic.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/xai-mindset2/diabetes.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/xai-mindset2/ecoli.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/xai-mindset2/haberman.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/xai-mindset2/heart-c.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/xai-mindset2/heart-h.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/xai-mindset2/heart-statlog.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/xai-mindset2/hungarian.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/xai-mindset2/liver-disorder.wcnf	|	now win
+MS20/mse20-incomplete-unweighted/xai-mindset2/postoperative-patient-data.wcnf	|	origin win
+MS20/mse20-incomplete-unweighted/xai-mindset2/shuttleM.wcnf	|	equal
+MS20/mse20-incomplete-unweighted/xai-mindset2/soybean.wcnf	|	equal
+
+MS20
+unweighted statistic info:
+#origin_alg         #now_alg            #equal              #origin_solved      #now_solved         origin_ave_time     now_ave_time        origin_score        now_score           
+36                  70                  156                 184                 206                 226.0396            191.5459            0.691               0.7762
+MS21/mse21_incomplete_unwt/MaxSATQueriesinInterpretableClassifiers/MLIC_maxsat_benchmarks/credit_train_1_DNF_3_1.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/MaximumCommonSub-GraphExtraction/solved/g2_n35e34_n58e61.wcnf	|	equal
+MS21/mse21_incomplete_unwt/aes/mul_8_11.wcnf	|	equal
+MS21/mse21_incomplete_unwt/aes/mul_8_13.wcnf	|	equal
+MS21/mse21_incomplete_unwt/aes/mul_8_14.wcnf	|	now win
+MS21/mse21_incomplete_unwt/aes/mul_8_3.wcnf	|	equal
+MS21/mse21_incomplete_unwt/aes/mul_8_9.wcnf	|	equal
+MS21/mse21_incomplete_unwt/aes/sbox_8.wcnf	|	now win
+MS21/mse21_incomplete_unwt/atcoss/mesat/atcoss_mesat_02.wcnf	|	equal
+MS21/mse21_incomplete_unwt/atcoss/mesat/atcoss_mesat_03.wcnf	|	equal
+MS21/mse21_incomplete_unwt/atcoss/mesat/atcoss_mesat_04.wcnf	|	equal
+MS21/mse21_incomplete_unwt/atcoss/mesat/atcoss_mesat_15.wcnf	|	equal
+MS21/mse21_incomplete_unwt/atcoss/mesat/atcoss_mesat_18.wcnf	|	equal
+MS21/mse21_incomplete_unwt/atcoss/sugar/atcoss_sugar_05.wcnf	|	equal
+MS21/mse21_incomplete_unwt/atcoss/sugar/atcoss_sugar_10.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/anneal-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf	|	equal
+MS21/mse21_incomplete_unwt/decision-tree/anneal-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/australian-credit-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/australian-credit-un/formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/breast-cancer-un/rest/stratified/formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/car-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/heart-cleveland-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/heart-cleveland-un/formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/hypothyroid-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf	|	equal
+MS21/mse21_incomplete_unwt/decision-tree/lymph-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf	|	equal
+MS21/mse21_incomplete_unwt/decision-tree/primary-tumor-un/formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/primary-tumor-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf	|	equal
+MS21/mse21_incomplete_unwt/decision-tree/soybean-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/soybean-un/formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/soybean-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/splice-1-un/formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf	|	equal
+MS21/mse21_incomplete_unwt/decision-tree/splice-1-un/formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf	|	equal
+MS21/mse21_incomplete_unwt/decision-tree/tic-tac-toe-un/formula_0.8_2021_atleast_127_max-6_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/tic-tac-toe-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/tic-tac-toe-un/formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf	|	now win
+MS21/mse21_incomplete_unwt/decision-tree/vote-un/formula_0.8_2021_atleast_15_max-3_reduced_incomplete_tree.wcnf	|	equal
+MS21/mse21_incomplete_unwt/decision-tree/vote-un/formula_0.8_2021_atleast_31_max-4_reduced_incomplete_tree.wcnf	|	equal
+MS21/mse21_incomplete_unwt/decision-tree/vote-un/formula_0.8_2021_atleast_63_max-5_reduced_incomplete_tree.wcnf	|	equal
+MS21/mse21_incomplete_unwt/exploits-synthesis_changjian_zhang/meltdown_min.wcnf	|	equal
+MS21/mse21_incomplete_unwt/exploits-synthesis_changjian_zhang/spectre_min.wcnf	|	equal
+MS21/mse21_incomplete_unwt/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/extension-enforcement/extension-enforcement_non-strict_stb_200_0.1_4_10_2.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_aim-50-3_4-yes1-3.wcnf	|	equal
+MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_atv_partial_system.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_clique_15.wcnf	|	equal
+MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_flat30-50.wcnf	|	equal
+MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_hole6.wcnf	|	equal
+MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_par8-3-c.wcnf	|	equal
+MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_pret60_25.wcnf	|	equal
+MS21/mse21_incomplete_unwt/gen-hyper-tw/GenHyperTW_uf20-099.wcnf	|	equal
+MS21/mse21_incomplete_unwt/hs-timetabling/GreeceWesternGreeceUniversityInstance4.xml.wcnf	|	now win
+MS21/mse21_incomplete_unwt/large-graph-commmunity-detection_jabbour/AMAZON.wcnf	|	equal
+MS21/mse21_incomplete_unwt/large-graph-commmunity-detection_jabbour/DBLP.wcnf	|	equal
+MS21/mse21_incomplete_unwt/large-graph-commmunity-detection_jabbour/YOUTUBE.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/logic-synthesis/normalized-test4.pi.opb.msat.wcnf	|	now win
+MS21/mse21_incomplete_unwt/maxclique/structured/hamming10-4.clq.wcnf	|	equal
+MS21/mse21_incomplete_unwt/maxclique/structured/p_hat1000-2.clq.wcnf	|	equal
+MS21/mse21_incomplete_unwt/maxclique/structured/p_hat700-2.clq.wcnf	|	equal
+MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-12.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-20.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-28.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-4.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-45.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.7-6.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.8-1.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.8-18.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.8-26.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/maxcut/bipartite/maxcut-140-630-0.8-39.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/maxcut/dimacs_mod/brock200_3.clq.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/min-fill/MinFill_R0_miles1500.wcnf	|	now win
+MS21/mse21_incomplete_unwt/min-fill/MinFill_R0_myciel6.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/min-fill/MinFill_R0_queen5_5.wcnf	|	equal
+MS21/mse21_incomplete_unwt/min-fill/MinFill_R0_queen8_8.wcnf	|	now win
+MS21/mse21_incomplete_unwt/min-fill/MinFill_R0_queen9_9.wcnf	|	now win
+MS21/mse21_incomplete_unwt/min-fill/MinFill_R1_games120.wcnf	|	now win
+MS21/mse21_incomplete_unwt/min-fill/MinFill_R3_miles750.wcnf	|	now win
+MS21/mse21_incomplete_unwt/optic/gen_add_6_991.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_160_20_20-0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_200_10_40-0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_200_12_20-3.wcnf	|	equal
+MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_200_16_20-0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_200_20_20-6.wcnf	|	equal
+MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_200_22_20-2.wcnf	|	equal
+MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_260_20_20-0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/phylogenetic-trees_berg/ms_260_20_20-1.wcnf	|	equal
+MS21/mse21_incomplete_unwt/planning-bnn/cellda_x_12.wcnf	|	equal
+MS21/mse21_incomplete_unwt/planning-bnn/cellda_y_10.wcnf	|	equal
+MS21/mse21_incomplete_unwt/planning-bnn/navigation_5x5_10.wcnf	|	equal
+MS21/mse21_incomplete_unwt/planning-bnn/navigation_5x5_8.wcnf	|	equal
+MS21/mse21_incomplete_unwt/planning-bnn/navigation_5x5_9.wcnf	|	equal
+MS21/mse21_incomplete_unwt/planning-bnn/sysadmin_4_4.wcnf	|	equal
+MS21/mse21_incomplete_unwt/planning-bnn/sysadmin_5_3.wcnf	|	equal
+MS21/mse21_incomplete_unwt/planning-bnn/sysadmin_5_4.wcnf	|	equal
+MS21/mse21_incomplete_unwt/program_disambiguation-Ramos/Q34_OPTIONS_1.wcnf	|	equal
+MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/MultiDay_1.wcnf	|	now win
+MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/MultiDay_3.wcnf	|	now win
+MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/MultiDay_4.wcnf	|	now win
+MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/SingleDay_15.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/SingleDay_3.wcnf	|	now win
+MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/Subnetwork_7.wcnf	|	equal
+MS21/mse21_incomplete_unwt/railroad_reisch/unweighted/Subnetwork_9.wcnf	|	equal
+MS21/mse21_incomplete_unwt/railroad_reisch/weighted/MultiDay_1_weighted.wcnf	|	now win
+MS21/mse21_incomplete_unwt/railway-transport/d4.wcnf	|	now win
+MS21/mse21_incomplete_unwt/railway-transport/pesp_18Min.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/railway-transport/pesp_5min.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/railway-transport/we.wcnf	|	equal
+MS21/mse21_incomplete_unwt/ramsey/ram_k3_n10.ra0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/ramsey/ram_k3_n11.ra0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/ramsey/ram_k3_n12.ra0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/ramsey/ram_k3_n13.ra0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/ramsey/ram_k3_n14.ra0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/ramsey/ram_k3_n15.ra0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/ramsey/ram_k3_n18.ra0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/ramsey/ram_k3_n19.ra0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/ramsey/ram_k4_n18.ra0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/ramsey/ram_k4_n19.ra0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/ramsey/ram_k4_n20.ra0.wcnf	|	equal
+MS21/mse21_incomplete_unwt/reversi/rev66-16.wcnf	|	equal
+MS21/mse21_incomplete_unwt/reversi/rev66-18.wcnf	|	equal
+MS21/mse21_incomplete_unwt/reversi/rev66-20.wcnf	|	equal
+MS21/mse21_incomplete_unwt/reversi/rev66-22.wcnf	|	equal
+MS21/mse21_incomplete_unwt/reversi/rev66-24.wcnf	|	equal
+MS21/mse21_incomplete_unwt/reversi/rev66-28.wcnf	|	equal
+MS21/mse21_incomplete_unwt/reversi/rev66-32.wcnf	|	equal
+MS21/mse21_incomplete_unwt/scheduling/cnf_10.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/scheduling/cnf_12.wcnf	|	now win
+MS21/mse21_incomplete_unwt/scheduling/cnf_small.wcnf	|	equal
+MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam100-n100-p13-frag3/20-100-lambda100-48.wcnf	|	now win
+MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam100-n100-p13-frag3/20-100-lambda100-96.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p100-frag3/20-100-p100-49.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p100-frag3/20-100-p100-54.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p13-frag12/20-100-frag12-13.wcnf	|	now win
+MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p13-frag12/20-100-frag12-85.wcnf	|	equal
+MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p13-frag12/20-100-frag12-91.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/scheduling_xiaojuan/lam20-n100-p13-frag12/20-100-frag12-97.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/set-covering/crafted/scpclr/scpclr11_maxsat.wcnf	|	now win
+MS21/mse21_incomplete_unwt/set-covering/crafted/scpclr/scpclr12_maxsat.wcnf	|	now win
+MS21/mse21_incomplete_unwt/set-covering/crafted/scpclr/scpclr13_maxsat.wcnf	|	now win
+MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc06_maxsat.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc07_maxsat.wcnf	|	equal
+MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc08_maxsat.wcnf	|	now win
+MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc09_maxsat.wcnf	|	now win
+MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc10_maxsat.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/set-covering/crafted/scpcyc/scpcyc11_maxsat.wcnf	|	origin win
+MS21/mse21_incomplete_unwt/setcover-rail_zhendong/unweighted-setcover-sts/data.135.wcnf	|	equal
+MS21/mse21_incomplete_unwt/setcover-rail_zhendong/unweighted-setcover-sts/data.243.wcnf	|	equal
+MS21/mse21_incomplete_unwt/setcover-rail_zhendong/unweighted-setcover-sts/data.405.wcnf	|	equal
+MS21/mse21_incomplete_unwt/setcover-rail_zhendong/unweighted-setcover-sts/data.729.wcnf	|	equal
+MS21/mse21_incomplete_unwt/treewidth-computation/TWComp_1c75_N69.wcnf	|	equal
+MS21/mse21_incomplete_unwt/treewidth-computation/TWComp_myciel5_N47.wcnf	|	equal
+MS21/mse21_incomplete_unwt/treewidth-computation/TWComp_queen5_5_N25.wcnf	|	equal
+MS21/mse21_incomplete_unwt/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr13-plb100.wcnf	|	equal
+MS21/mse21_incomplete_unwt/uaq_gazzarata/min/uaq-min-nr-nr50-np400-rpp5-nc0-rs0-t0-plb100-n9.wcnf	|	now win
+MS21/mse21_incomplete_unwt/xai-mindset2/haberman.wcnf	|	equal
+MS21/mse21_incomplete_unwt/xai-mindset2/heart-c.wcnf	|	now win
+
+MS21
+unweighted statistic info:
+#origin_alg         #now_alg            #equal              #origin_solved      #now_solved         origin_ave_time     now_ave_time        origin_score        now_score           
+29                  40                  86                  96                  116                 267.6745            210.847             0.6162              0.739
