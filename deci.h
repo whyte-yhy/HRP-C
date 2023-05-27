@@ -10,7 +10,6 @@ class Decimation
 {
 
 public:
-    //Decimation(lit **ls_var_lit, int *ls_var_lit_count, lit **ls_clause_lit, long long *ls_org_clause_weight, long long ls_top_clause_weight);  satlg
     Decimation(lit **ls_var_lit, int *ls_var_lit_count, lit **ls_clause_lit, long long *ls_org_clause_weight, long long ls_top_clause_weight, long long ls_ave_soft_weight);
 
     void make_space(int max_c, int max_v);
@@ -69,7 +68,6 @@ public:
     long long ave_soft_weight;
 };
 
-//Decimation::Decimation(lit **ls_var_lit, int *ls_var_lit_count, lit **ls_clause_lit, long long *ls_org_clause_weight, long long ls_top_clause_weight) satlg
 Decimation::Decimation(lit **ls_var_lit, int *ls_var_lit_count, lit **ls_clause_lit, long long *ls_org_clause_weight, long long ls_top_clause_weight, long long ls_ave_soft_weight)
 {
     var_lit = ls_var_lit;
@@ -109,10 +107,6 @@ void Decimation::make_space(int max_c, int max_v)
 
     clause_delete = new int[max_c];
     clause_lit_count = new int[max_c];
-
-//    hardunsat_stack = new int[max_c];
-//    index_in_hardunsat_stack = new int[max_c];
-
 }
 
 void Decimation::free_memory()
@@ -136,10 +130,6 @@ void Decimation::free_memory()
 
     delete[] clause_delete;
     delete[] clause_lit_count;
-
-//    delete[] hardunsat_stack;
-//    delete[] index_in_hardunsat_stack;
-
 }
 
 void Decimation::init(int *ls_local_opt, int *ls_global_opt, lit *ls_unit_clause, int ls_unit_clause_count, const int *ls_clause_lit_count, int ls_solu_feasible, bool ls_memo_type, int ls_h_inc)
@@ -374,7 +364,6 @@ void Decimation::sunit_propagation()
     ht = 15;
 
     int best_v = sunit_clause_queue[sunit_beg_pointer].var_num;
-    //c = sunit_clause_queue[sunit_beg_pointer].clause_num;
     int best_score = sscore[best_v];
     int index = sunit_beg_pointer;
     int count = sunit_end_pointer - sunit_beg_pointer;
@@ -387,7 +376,6 @@ void Decimation::sunit_propagation()
             v = sunit_clause_queue[sunit_beg_pointer + rd].var_num;
             if (sscore[v] > best_score)
             {
-                //best_v = v;
                 index = sunit_beg_pointer + rd;
             }
         }
@@ -399,7 +387,6 @@ void Decimation::sunit_propagation()
             v = sunit_clause_queue[i].var_num;
             if (sscore[v] > best_score)
             {
-                //best_v = v;
                 index = i;
             }
         }
@@ -433,10 +420,6 @@ void Decimation::random_propagation() {
 
     if (hscore[v] <= 0) assign(v, rand() % 2);
     else assign(v, hscore[v]==h_true_score[v] ? 1 : 0);
-
-//    v = unassigned_var[rand() % unassigned_var_count];
-//    sense = rand() % 2;
-//    assign(v, sense);
 }
 
 void Decimation::unit_prosess()
