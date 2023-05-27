@@ -130,7 +130,6 @@ private:
     int hard_unsat_nb;
     long long soft_unsat_weight;
     long long opt_unsat_weight;
-    //long long local_opt_unsat_weight;
 
     //clause weighting
     int *large_weight_clauses;
