@@ -36,7 +36,6 @@ void Satlike::init(vector<int> &init_solution)
                 }
             }
         }
-        //basis_clause_weight[c] *= 0.8;
     }
 
     //init solution
@@ -204,7 +203,6 @@ int Satlike::pick_var()
 void Satlike::local_search_with_decimation(char *inputfile)
 {
     settings();
-    //Decimation deci(var_lit, var_lit_count, clause_lit, org_clause_weight, top_clause_weight);  satlg
     Decimation deci(var_lit, var_lit_count, clause_lit, org_clause_weight, top_clause_weight, ave_soft_weight);
     deci.make_space(num_clauses, num_vars);
 
@@ -215,7 +213,6 @@ void Satlike::local_search_with_decimation(char *inputfile)
         {
             deci.init(local_opt_soln, best_soln, unit_clause, unit_clause_count, clause_lit_count, best_soln_feasible, memo_from_type, h_inc);
             deci.unit_prosess();
-            //deci.unit_prosess();
             init(deci.fix);
         }
         else {
@@ -223,7 +220,6 @@ void Satlike::local_search_with_decimation(char *inputfile)
         }
 
         long long local_opt = __LONG_LONG_MAX__;
-        //memo_from_type = false;
         for (step = 1; step < max_flips; ++step)
         {
             if (hard_unsat_nb == 0)
@@ -261,7 +257,6 @@ void Satlike::local_search_with_decimation(char *inputfile)
                 } else if (elapse_time >= 300) {
                     cout << "time limit:" << 300 << "s" << endl;
                     simple_print();
-                    //print_best_solution();
                     deci.free_memory();
                     return;
                 }
